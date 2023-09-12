@@ -1,0 +1,31 @@
+{
+  "items": [
+    { "name": "Jerry Seinfeld", "img": "placeholder" },
+    { "name": "George Costanza", "img": "placeholder" },
+    { "name": "Elaine Benes", "img": "placeholder" },
+    { "name": "Cosmo Kramer", "img": "placeholder" },
+    { "name": "Newman", "img": "placeholder" },
+    { "name": "Frank Costanza", "img": "placeholder" },
+    { "name": "Estelle Costanza", "img": "placeholder" },
+    { "name": "Susan Ross", "img": "placeholder" },
+    { "name": "Morty Seinfeld", "img": "placeholder" },
+    { "name": "Helen Seinfeld", "img": "placeholder" },
+    { "name": "J. Peterman", "img": "placeholder" },
+    { "name": "David Puddy", "img": "placeholder" },
+    { "name": "Jackie Chiles", "img": "placeholder" },
+    { "name": "Uncle Leo", "img": "placeholder" },
+    { "name": "Kenny Bania", "img": "placeholder" },
+    { "name": "George Steinbrenner", "img": "placeholder" },
+    { "name": "Tim Whatley", "img": "placeholder" },
+    { "name": "The Soup Nazi", "img": "placeholder" },
+    { "name": "Mr. Wilhelm", "img": "placeholder" },
+    { "name": "The Maestro (Bob Cobb)", "img": "placeholder" },
+    { "name": "Sue Ellen Mischke", "img": "placeholder" },
+    { "name": "Mickey Abbott", "img": "placeholder" },
+    { "name": "Alton Benes (Elaine's father)", "img": "placeholder" },
+    { "name": "Pam (Jerry's girlfriend)", "img": "placeholder" },
+    { "name": "Marla Penny (the virgin)", "img": "placeholder" },
+    { "name": "Mr. Pitt", "img": "placeholder" },
+    { "name": "Lomez (Kramer's friend)", "img": "placeholder" }
+  ]
+}
