@@ -1,0 +1,27 @@
+{
+  "items": [
+    { "name": "Harvey Specter", "img": "placeholder" },
+    { "name": "Mike Ross", "img": "placeholder" },
+    { "name": "Donna Paulsen", "img": "placeholder" },
+    { "name": "Louis Litt", "img": "placeholder" },
+    { "name": "Rachel Zane", "img": "placeholder" },
+    { "name": "Jessica Pearson", "img": "placeholder" },
+    { "name": "Robert Zane", "img": "placeholder" },
+    { "name": "Sheila Sazs", "img": "placeholder" },
+    { "name": "Katrina Bennett", "img": "placeholder" },
+    { "name": "Alex Williams", "img": "placeholder" },
+    { "name": "Samantha Wheeler", "img": "placeholder" },
+    { "name": "Gretchen Bodinski", "img": "placeholder" },
+    { "name": "Daniel Hardman", "img": "placeholder" },
+    { "name": "Trevor Evans", "img": "placeholder" },
+    { "name": "Scottie Young", "img": "placeholder" },
+    { "name": "Sean Cahill", "img": "placeholder" },
+    { "name": "Esther Litt", "img": "placeholder" },
+    { "name": "Anita Gibbs", "img": "placeholder" },
+    { "name": "Benjamin (Benny) Colón", "img": "placeholder" },
+    { "name": "Brian Altman", "img": "placeholder" },
+    { "name": "Logan Sanders", "img": "placeholder" },
+    { "name": "Daniel Day", "img": "placeholder" },
+    { "name": "Norma", "img": "placeholder" }
+  ]
+}
