@@ -1,0 +1,16 @@
+{
+  "items": [
+    { "name": "Ted Lasso", "img": "placeholder" },
+    { "name": "The Marvelous Mrs. Maisel", "img": "placeholder" },
+    { "name": "Hacks", "img": "placeholder" },
+    { "name": "Brooklyn Nine-Nine", "img": "placeholder" },
+    { "name": "What We Do in the Shadows", "img": "placeholder" },
+    { "name": "Superstore", "img": "placeholder" },
+    { "name": "The Conners", "img": "placeholder" },
+    { "name": "black-ish", "img": "placeholder" },
+    { "name": "Young Sheldon", "img": "placeholder" },
+    { "name": "The Good Place", "img": "placeholder" },
+    { "name": "It's Always Sunny in Philadelphia", "img": "placeholder" },
+    { "name": "The Kominsky Method", "img": "placeholder" }
+  ]
+}
