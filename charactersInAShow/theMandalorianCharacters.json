@@ -1,0 +1,24 @@
+{
+  "items": [
+    { "name": "Din Djarin", "img": "placeholder" },
+    { "name": "Grogu", "img": "placeholder" },
+    { "name": "Cara Dune", "img": "placeholder" },
+    { "name": "Greef Karga", "img": "placeholder" },
+    { "name": "Moff Gideon", "img": "placeholder" },
+    { "name": "Bo-Katan Kryze", "img": "placeholder" },
+    { "name": "Ahsoka Tano", "img": "placeholder" },
+    { "name": "Boba Fett", "img": "placeholder" },
+    { "name": "Fennec Shand", "img": "placeholder" },
+    { "name": "IG-11", "img": "placeholder" },
+    { "name": "Cobb Vanth", "img": "placeholder" },
+    { "name": "Mayfeld", "img": "placeholder" },
+    { "name": "Omera", "img": "placeholder" },
+    { "name": "Peli Motto", "img": "placeholder" },
+    { "name": "Kuiil", "img": "placeholder" },
+    { "name": "The Armorer", "img": "placeholder" },
+    { "name": "Koska Reeves", "img": "placeholder" },
+    { "name": "Gekko", "img": "placeholder" },
+    { "name": "Axe Woves", "img": "placeholder" },
+    { "name": "Morgan Elsbeth", "img": "placeholder" }
+  ]
+}
