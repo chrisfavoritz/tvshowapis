@@ -1,17 +1,17 @@
 {
   "items": [
-    { "name": "Chip 'n Dale: Rescue Rangers", "img": "placeholder" },
-    { "name": "Dolly Parton's Christmas on the Square", "img": "placeholder" },
-    { "name": "Bad Education", "img": "placeholder" },
-    { "name": "Black Mirror: Bandersnatch", "img": "placeholder" },
-    { "name": "USS Callister (Black Mirror)", "img": "placeholder" },
-    { "name": "Black Mirror: San Junipero", "img": "placeholder" },
-    { "name": "Sherlock: The Abominable Bride", "img": "placeholder" },
-    { "name": "Bessie", "img": "placeholder" },
-    { "name": "The Normal Heart", "img": "placeholder" },
-    { "name": "Behind the Candelabra", "img": "placeholder" },
-    { "name": "Game Change", "img": "placeholder" },
-    { "name": "Downton Abbey: Masterpiece", "img": "placeholder" },
-    { "name": "Temple Grandin", "img": "placeholder" }
+    { "name": "Chip 'n Dale: Rescue Rangers", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Chip_n_Dale_Rescue_Rangers_Teaser_poster.jpg/220px-Chip_n_Dale_Rescue_Rangers_Teaser_poster.jpg" },
+    { "name": "Dolly Parton's Christmas on the Square", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Dolly_Parton%27s_Christmas_on_the_Square.jpg/220px-Dolly_Parton%27s_Christmas_on_the_Square.jpg" },
+    { "name": "Bad Education", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Bad_Education_poster.jpeg/220px-Bad_Education_poster.jpeg" },
+    { "name": "Black Mirror: Bandersnatch", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Black_mirror_bandersnatch_poster.jpg/220px-Black_mirror_bandersnatch_poster.jpg" },
+    { "name": "USS Callister (Black Mirror)", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Black_Mirror_S04E01_-_USS_Callister.png/250px-Black_Mirror_S04E01_-_USS_Callister.png" },
+    { "name": "Black Mirror: San Junipero", "img": "https://m.media-amazon.com/images/M/MV5BMjA2MzA0ODA4MV5BMl5BanBnXkFtZTgwNDE2MzgzMDI@._V1_.jpg" },
+    { "name": "Sherlock: The Abominable Bride", "img": "https://m.media-amazon.com/images/M/MV5BYzAyN2Y2MWQtNTJiZC00MTVkLTlkYWYtZDkxYjdhZmE1Y2VlXkEyXkFqcGdeQXVyMjk3OTU0ODY@._V1_.jpg" },
+    { "name": "Bessie", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/BessiePromotionalPoster.jpg/220px-BessiePromotionalPoster.jpg" },
+    { "name": "The Normal Heart", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/The_Normal_Heart_Poster.jpeg/220px-The_Normal_Heart_Poster.jpeg" },
+    { "name": "Behind the Candelabra", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Behind_the_Candelabra_poster.jpg/220px-Behind_the_Candelabra_poster.jpg" },
+    { "name": "Game Change", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Game_Change_2012_poster.jpg/220px-Game_Change_2012_poster.jpg" },
+    { "name": "Downton Abbey: Masterpiece", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Downton_Abbey_Title_Card.jpg/220px-Downton_Abbey_Title_Card.jpg" },
+    { "name": "Temple Grandin", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Templegrandin.jpg/220px-Templegrandin.jpg" }
   ]
 }
