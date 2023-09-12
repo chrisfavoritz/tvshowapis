@@ -1,0 +1,15 @@
+{
+  "items": [
+    { "name": "Season 1 (2009-2010)", "img": "placeholder" },
+    { "name": "Season 2 (2010-2011)", "img": "placeholder" },
+    { "name": "Season 3 (2011-2012)", "img": "placeholder" },
+    { "name": "Season 4 (2012-2013)", "img": "placeholder" },
+    { "name": "Season 5 (2013-2014)", "img": "placeholder" },
+    { "name": "Season 6 (2014-2015)", "img": "placeholder" },
+    { "name": "Season 7 (2015-2016)", "img": "placeholder" },
+    { "name": "Season 8 (2016-2017)", "img": "placeholder" },
+    { "name": "Season 9 (2017-2018)", "img": "placeholder" },
+    { "name": "Season 10 (2018-2019)", "img": "placeholder" },
+    { "name": "Season 11 (2019-2020)", "img": "placeholder" }
+  ]
+}
