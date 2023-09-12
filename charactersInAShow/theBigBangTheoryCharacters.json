@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Sheldon Cooper", "img": "placeholder" },
+    { "name": "Leonard Hofstadter", "img": "placeholder" },
+    { "name": "Penny", "img": "placeholder" },
+    { "name": "Howard Wolowitz", "img": "placeholder" },
+    { "name": "Rajesh \"Raj\" Koothrappali", "img": "placeholder" },
+    { "name": "Bernadette Rostenkowski-Wolowitz", "img": "placeholder" },
+    { "name": "Amy Farrah Fowler", "img": "placeholder" },
+    { "name": "Stuart Bloom", "img": "placeholder" },
+    { "name": "Wil Wheaton (as himself)", "img": "placeholder" },
+    { "name": "Leslie Winkle", "img": "placeholder" },
+    { "name": "Barry Kripke", "img": "placeholder" },
+    { "name": "Beverly Hofstadter", "img": "placeholder" },
+    { "name": "Emily Sweeney", "img": "placeholder" },
+    { "name": "Priya Koothrappali", "img": "placeholder" },
+    { "name": "Dale", "img": "placeholder" },
+    { "name": "Bert Kibbler", "img": "placeholder" },
+    { "name": "President Siebert", "img": "placeholder" },
+    { "name": "Lucy", "img": "placeholder" },
+    { "name": "Denise", "img": "placeholder" },
+    { "name": "Alex Jensen", "img": "placeholder" },
+    { "name": "Anu", "img": "placeholder" },
+    { "name": "Mrs. Wolowitz", "img": "placeholder" },
+    { "name": "Janine Davis", "img": "placeholder" },
+    { "name": "Gollum (Sheldon's GPS)", "img": "placeholder" },
+    { "name": "Raj's Dog, Cinnamon", "img": "placeholder" }
+  ]
+}
