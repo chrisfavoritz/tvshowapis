@@ -1,10 +1,10 @@
 {
   "items": [
-    { "name": "Saturday Night Live", "img": "placeholder" },
-    { "name": "Key & Peele", "img": "placeholder" },
-    { "name": "Inside Amy Schumer", "img": "placeholder" },
-    { "name": "The Colbert Report", "img": "placeholder" },
-    { "name": "The Daily Show with Jon Stewart", "img": "placeholder" },
-    { "name": "Last Week Tonight with John Oliver", "img": "placeholder" }
+    { "name": "Saturday Night Live", "img": "https://m.media-amazon.com/images/M/MV5BY2YxODFmOGUtMjY1OC00YTk5LTlkNWEtMzU5MWYxNTgwNzkxXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_.jpg" },
+    { "name": "Key & Peele", "img": "https://images.paramount.tech/uri/mgid:arc:imageassetref:comedycentral.com:331a611a-fd48-4bbc-83d0-b6e5aabbbc0f?quality=0.7&gen=ntrn&legacyStatusCode=true" },
+    { "name": "Inside Amy Schumer", "img": "https://flxt.tmsimg.com/assets/p9809544_b_v13_ad.jpg" },
+    { "name": "The Colbert Report", "img": "https://m.media-amazon.com/images/M/MV5BOGI1MTA4MGYtOThjMS00YzdjLTg3ZDItNjkwZTUzMzE4ZjlhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" },
+    { "name": "The Daily Show with Jon Stewart", "img": "https://flxt.tmsimg.com/assets/p184268_b_v9_ac.jpg" },
+    { "name": "Last Week Tonight with John Oliver", "img": "https://m.media-amazon.com/images/M/MV5BNjRhYTgyZGEtOGU2YS00ZGM1LWIzODctZDhkNDBiYTFhZTYxXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_FMjpg_UX1000_.jpg" }
   ]
 }
