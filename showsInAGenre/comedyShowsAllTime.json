@@ -1,0 +1,26 @@
+{
+  "items": [
+    { "name": "Friends", "img": "placeholder" },
+    { "name": "Seinfeld", "img": "placeholder" },
+    { "name": "The Simpsons", "img": "placeholder" },
+    { "name": "The Office", "img": "placeholder" },
+    { "name": "I Love Lucy", "img": "placeholder" },
+    { "name": "MAS*H", "img": "placeholder" },
+    { "name": "The Mary Tyler Moore Show", "img": "placeholder" },
+    { "name": "Cheers", "img": "placeholder" },
+    { "name": "All in the Family", "img": "placeholder" },
+    { "name": "Friends", "img": "placeholder" },
+    { "name": "Parks and Recreation", "img": "placeholder" },
+    { "name": "The Big Bang Theory", "img": "placeholder" },
+    { "name": "Frasier", "img": "placeholder" },
+    { "name": "The Honeymooners", "img": "placeholder" },
+    { "name": "South Park", "img": "placeholder" },
+    { "name": "Curb Your Enthusiasm", "img": "placeholder" },
+    { "name": "Arrested Development", "img": "placeholder" },
+    { "name": "The Golden Girls", "img": "placeholder" },
+    { "name": "The Dick Van Dyke Show", "img": "placeholder" },
+    { "name": "Family Guy", "img": "placeholder" },
+    { "name": "Modern Family", "img": "placeholder" },
+    { "name": "30 Rock", "img": "placeholder" }
+  ]
+}
