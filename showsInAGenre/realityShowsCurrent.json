@@ -1,0 +1,18 @@
+{
+  "items": [
+    { "name": "RuPaul's Drag Race", "img": "placeholder" },
+    { "name": "Survivor", "img": "placeholder" },
+    { "name": "The Great British Bake Off", "img": "placeholder" },
+    { "name": "The Masked Singer", "img": "placeholder" },
+    { "name": "The Amazing Race", "img": "placeholder" },
+    { "name": "Queer Eye", "img": "placeholder" },
+    { "name": "Nailed It!", "img": "placeholder" },
+    { "name": "Chef's Table", "img": "placeholder" },
+    { "name": "90 Day Fiancé", "img": "placeholder" },
+    { "name": "The Bachelor", "img": "placeholder" },
+    { "name": "Love Island", "img": "placeholder" },
+    { "name": "Big Brother", "img": "placeholder" },
+    { "name": "Naked and Afraid", "img": "placeholder" },
+    { "name": "Alone", "img": "placeholder" }
+  ]
+}
