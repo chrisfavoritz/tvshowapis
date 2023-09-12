@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "name": "John Belushi",
+      "img": "placeholder"
+    },
+    {
+      "name": "Dan Aykroyd",
+      "img": "placeholder"
+    },
+    {
+      "name": "Chevy Chase",
+      "img": "placeholder"
+    },
+    {
+      "name": "Gilda Radner",
+      "img": "placeholder"
+    },
+    {
+      "name": "Bill Murray",
+      "img": "placeholder"
+    },
+    {
+      "name": "Eddie Murphy",
+      "img": "placeholder"
+    },
+    {
+      "name": "Dana Carvey",
+      "img": "placeholder"
+    },
+    {
+      "name": "Mike Myers",
+      "img": "placeholder"
+    },
+    {
+      "name": "Phil Hartman",
+      "img": "placeholder"
+    },
+    {
+      "name": "Will Ferrell",
+      "img": "placeholder"
+    },
+    {
+      "name": "Tina Fey",
+      "img": "placeholder"
+    },
+    {
+      "name": "Amy Poehler",
+      "img": "placeholder"
+    },
+    {
+      "name": "Jimmy Fallon",
+      "img": "placeholder"
+    },
+    {
+      "name": "Kristen Wiig",
+      "img": "placeholder"
+    },
+    {
+      "name": "Kate McKinnon",
+      "img": "placeholder"
+    }
+  ]
+}
