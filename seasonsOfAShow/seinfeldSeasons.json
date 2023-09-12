@@ -1,0 +1,13 @@
+{
+  "items": [
+    { "name": "Season 1 (1989-1990)", "img": "placeholder" },
+    { "name": "Season 2 (1991)", "img": "placeholder" },
+    { "name": "Season 3 (1991-1992)", "img": "placeholder" },
+    { "name": "Season 4 (1992-1993)", "img": "placeholder" },
+    { "name": "Season 5 (1993-1994)", "img": "placeholder" },
+    { "name": "Season 6 (1994-1995)", "img": "placeholder" },
+    { "name": "Season 7 (1995-1996)", "img": "placeholder" },
+    { "name": "Season 8 (1996-1997)", "img": "placeholder" },
+    { "name": "Season 9 (1997-1998)", "img": "placeholder" }
+  ]
+}
