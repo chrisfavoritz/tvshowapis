@@ -1,0 +1,22 @@
+{
+  "items": [
+    { "name": "The Sopranos", "img": "placeholder" },
+    { "name": "Breaking Bad", "img": "placeholder" },
+    { "name": "Game of Thrones", "img": "placeholder" },
+    { "name": "The Wire", "img": "placeholder" },
+    { "name": "The West Wing", "img": "placeholder" },
+    { "name": "The Crown", "img": "placeholder" },
+    { "name": "Mad Men", "img": "placeholder" },
+    { "name": "The Twilight Zone", "img": "placeholder" },
+    { "name": "The X-Files", "img": "placeholder" },
+    { "name": "Sherlock", "img": "placeholder" },
+    { "name": "House of Cards", "img": "placeholder" },
+    { "name": "Downton Abbey", "img": "placeholder" },
+    { "name": "Homeland", "img": "placeholder" },
+    { "name": "Law & Order", "img": "placeholder" },
+    { "name": "ER", "img": "placeholder" },
+    { "name": "Lost", "img": "placeholder" },
+    { "name": "The Handmaid's Tale", "img": "placeholder" },
+    { "name": "Boardwalk Empire", "img": "placeholder" }
+  ]
+}
