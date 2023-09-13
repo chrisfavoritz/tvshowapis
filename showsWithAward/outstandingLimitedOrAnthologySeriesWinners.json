@@ -1,17 +1,17 @@
 {
   "items": [
-    { "name": "The White Lotus (2022)", "img": "placeholder" },
-    { "name": "The Queen's Gambit (2021)", "img": "placeholder" },
-    { "name": "Watchmen (2020)", "img": "placeholder" },
-    { "name": "Chernobyl (2019)", "img": "placeholder" },
-    { "name": "The Assassination of Gianni Versace: American Crime Story (2018)", "img": "placeholder" },
-    { "name": "Big Little Lies (2017)", "img": "placeholder" },
-    { "name": "The People v. O.J. Simpson: American Crime Story (2016)", "img": "placeholder" },
-    { "name": "Olive Kitteridge (2015)", "img": "placeholder" },
-    { "name": "Fargo (2014)", "img": "placeholder" },
-    { "name": "Behind the Candelabra (2013)", "img": "placeholder" },
-    { "name": "Sherlock: A Scandal in Belgravia (2012)", "img": "placeholder" },
-    { "name": "Downton Abbey (2011)", "img": "placeholder" },
-    { "name": "The Pacific (2010)", "img": "placeholder" }
+    { "name": "The White Lotus (2022)", "img": "https://flxt.tmsimg.com/assets/p19964690_b_v13_ad.jpg" },
+    { "name": "The Queen's Gambit (2021)", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/The_Queen%27s_Gambit_%28miniseries%29.png/220px-The_Queen%27s_Gambit_%28miniseries%29.png" },
+    { "name": "Watchmen (2020)", "img": "https://m.media-amazon.com/images/M/MV5BOWU3ODM4ZTEtNjI5Ni00ODc0LTg3MTctOTNmZDVkNzU5YzA3XkEyXkFqcGdeQXVyNTI2MzI4NTU@._V1_FMjpg_UX1000_.jpg" },
+    { "name": "Chernobyl (2019)", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Chernobyl_2019_Miniseries.jpg/220px-Chernobyl_2019_Miniseries.jpg" },
+    { "name": "The Assassination of Gianni Versace: American Crime Story (2018)", "img": "https://upload.wikimedia.org/wikipedia/en/4/46/American_Crime_Story_season_2_poster.jpg" },
+    { "name": "Big Little Lies (2017)", "img": "https://flxt.tmsimg.com/assets/p13709301_b1t_v8_aa.jpg" },
+    { "name": "The People v. O.J. Simpson: American Crime Story (2016)", "img": "https://upload.wikimedia.org/wikipedia/en/7/7c/The_People_v._O._J._Simpson_-_American_Crime_Story_poster.png" },
+    { "name": "Olive Kitteridge (2015)", "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/Olive_Kitteridge_poster.jpg" },
+    { "name": "Fargo (2014)", "img": "https://upload.wikimedia.org/wikipedia/en/2/2d/Fargoseason1promo.jpg" },
+    { "name": "Behind the Candelabra (2013)", "img": "https://upload.wikimedia.org/wikipedia/en/0/06/Behind_the_Candelabra_poster.jpg" },
+    { "name": "Game Change (2012)", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Game_Change_2012_poster.jpg/220px-Game_Change_2012_poster.jpg" },
+    { "name": "Downton Abbey (2011)", "img": "https://m.media-amazon.com/images/M/MV5BY2U1NmIwYzgtNjFkOS00YWUxLTg0YTMtZmE5NTA3YjRmY2NlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" },
+    { "name": "The Pacific (2010)", "img": "https://m.media-amazon.com/images/M/MV5BNmEwNmI1MjItNjNjYy00NDE5LWJiNTYtM2QxMTI5ZjllZTBhL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" }
   ]
 }
