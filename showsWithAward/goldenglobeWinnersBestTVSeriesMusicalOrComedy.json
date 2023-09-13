@@ -1,18 +1,17 @@
 {
   "items": [
-    { "name": "Abbott Elementary (2022)", "img": "placeholder" },
-    { "name": "Hacks (2022)", "img": "placeholder" },
-    { "name": "Schitt's Creek (2021)", "img": "placeholder" },
-    { "name": "Fleabag (2020)", "img": "placeholder" },
-    { "name": "The Marvelous Mrs. Maisel (2019)", "img": "placeholder" },
-    { "name": "The Marvelous Mrs. Maisel (2018)", "img": "placeholder" },
-    { "name": "Atlanta (2017)", "img": "placeholder" },
-    { "name": "Mozart in the Jungle (2016)", "img": "placeholder" },
-    { "name": "Transparent (2015)", "img": "placeholder" },
-    { "name": "Brooklyn Nine-Nine (2014)", "img": "placeholder" },
-    { "name": "Girls (2013)", "img": "placeholder" },
-    { "name": "Modern Family (2012)", "img": "placeholder" },
-    { "name": "Glee (2011)", "img": "placeholder" },
-    { "name": "30 Rock (2010)", "img": "placeholder" }
+    { "name": "Abbott Elementary", "img": "https://upload.wikimedia.org/wikipedia/en/a/a6/AbbottElementaryS1DVD.jpg" },
+    { "name": "Hacks", "img": "https://flxt.tmsimg.com/assets/p19867876_b_v13_ab.jpg" },
+    { "name": "Schitt's Creek", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Schitts_Creek_S6poster.jpg/220px-Schitts_Creek_S6poster.jpg" },
+    { "name": "Fleabag", "img": "https://resizing.flixster.com/IJ0fjMySJiNTEKoZvhGkdGE_GNE=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vUlRUVjQ2MjAzMy53ZWJw" },
+    { "name": "The Marvelous Mrs. Maisel", "img": "https://static.wikia.nocookie.net/the-marvelous-mrs-maisel/images/2/2c/Season_1_Poster.jpg/revision/latest?cb=20181102161822" },
+    { "name": "Atlanta", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Atlanta_season_1.png/220px-Atlanta_season_1.png" },
+    { "name": "Mozart in the Jungle", "img": "https://resizing.flixster.com/MaElm6w3Qo_qT4PQ0-4BZbZp5kY=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvUlRUVjE0MTk1OS53ZWJw" },
+    { "name": "Transparent", "img": "https://m.media-amazon.com/images/M/MV5BMjhmNzBlN2UtOGMzMi00ZjRiLTg4MDYtMDA0NzQyZjIwYTMwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" },
+    { "name": "Brooklyn Nine-Nine", "img": "https://m.media-amazon.com/images/M/MV5BNzVkYWY4NzYtMWFlZi00YzkwLThhZDItZjcxYTU4ZTMzMDZmXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_.jpg" },
+    { "name": "Girls", "img": "https://m.media-amazon.com/images/M/MV5BMTU1Mzk2ODEzN15BMl5BanBnXkFtZTgwNDQwMjAxMTI@._V1_.jpg" },
+    { "name": "Modern Family", "img": "https://upload.wikimedia.org/wikipedia/en/d/d0/ModernFamilyS1DVD.jpg" },
+    { "name": "Glee", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Glee_Season_3.jpg/220px-Glee_Season_3.jpg" },
+    { "name": "30 Rock", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/30_Rock_Season_One_DVD_Cover.jpg/250px-30_Rock_Season_One_DVD_Cover.jpg" }
   ]
 }
