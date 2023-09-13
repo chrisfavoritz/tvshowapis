@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "name": "Ted Lasso",
+      "img": "https://static.wikia.nocookie.net/ted-lasso/images/0/06/TL.jpg/revision/latest?cb=20220608064407"
+    },
+    {
+      "name": "Roy Kent",
+      "img": "https://static.wikia.nocookie.net/ted-lasso/images/9/93/CoachKent.jpg/revision/latest?cb=20230531161801"
+    },
+    {
+      "name": "Coach Beard",
+      "img": "https://static.wikia.nocookie.net/ted-lasso/images/b/b6/CB.jpg/revision/latest?cb=20220405135556"
+    },
+    {
+      "name": "Nathan Shelley",
+      "img": "https://static.wikia.nocookie.net/ted-lasso/images/8/89/Nate.jpg/revision/latest?cb=20220528084422"
+    },
+    {
+      "name": "Leslie Higgins",
+      "img": "https://static.wikia.nocookie.net/ted-lasso/images/1/18/6.jpg/revision/latest?cb=20220402142518"
+    },
+    {
+      "name": "Trent Crimm",
+      "img": "https://static.wikia.nocookie.net/ted-lasso/images/1/18/Trent_Crimm.jpg/revision/latest?cb=20200817181907"
+    }
+  ]
+}
