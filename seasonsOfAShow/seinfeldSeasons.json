@@ -1,13 +1,13 @@
 {
   "items": [
-    { "name": "Season 1 (1989-1990)", "img": "placeholder" },
-    { "name": "Season 2 (1991)", "img": "placeholder" },
-    { "name": "Season 3 (1991-1992)", "img": "placeholder" },
-    { "name": "Season 4 (1992-1993)", "img": "placeholder" },
-    { "name": "Season 5 (1993-1994)", "img": "placeholder" },
-    { "name": "Season 6 (1994-1995)", "img": "placeholder" },
-    { "name": "Season 7 (1995-1996)", "img": "placeholder" },
-    { "name": "Season 8 (1996-1997)", "img": "placeholder" },
-    { "name": "Season 9 (1997-1998)", "img": "placeholder" }
+    { "name": "Season 1 (1989-1990)", "img": "https://www.themoviedb.org/t/p/original/aRcDwAJnLWc8Tkfw8fNvfip5GD8.jpg" },
+    { "name": "Season 2 (1991)", "img": "https://www.themoviedb.org/t/p/w500/pnIzg5YwOFrfJnQ31z9T2wviPBF.jpg" },
+    { "name": "Season 3 (1991-1992)", "img": "https://www.themoviedb.org/t/p/original/6GOcoUq96tS6eNODHFtNmoyHbbf.jpg" },
+    { "name": "Season 4 (1992-1993)", "img": "https://upload.wikimedia.org/wikipedia/en/f/f3/Seinfeld4.jpg" },
+    { "name": "Season 5 (1993-1994)", "img": "https://upload.wikimedia.org/wikipedia/en/6/67/Seinfeld5.jpg" },
+    { "name": "Season 6 (1994-1995)", "img": "https://www.themoviedb.org/t/p/w500/lZ1mZVxPxXNCQ96DiueznMwrK5S.jpg" },
+    { "name": "Season 7 (1995-1996)", "img": "https://www.themoviedb.org/t/p/w500/xWOa5ooCisnvavvfOPWbgjxmaaL.jpg" },
+    { "name": "Season 8 (1996-1997)", "img": "https://www.themoviedb.org/t/p/w500/hcjHVDoFwbPS9oO7GdhU8vA8ONd.jpg" },
+    { "name": "Season 9 (1997-1998)", "img": "https://www.themoviedb.org/t/p/w500/otyE0qfPWaKlNgb56j5FQNYPsLb.jpg" }
   ]
 }
