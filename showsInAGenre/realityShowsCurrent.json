@@ -1,18 +1,18 @@
 {
   "items": [
-    { "name": "RuPaul's Drag Race", "img": "placeholder" },
-    { "name": "Survivor", "img": "placeholder" },
-    { "name": "The Great British Bake Off", "img": "placeholder" },
-    { "name": "The Masked Singer", "img": "placeholder" },
-    { "name": "The Amazing Race", "img": "placeholder" },
-    { "name": "Queer Eye", "img": "placeholder" },
-    { "name": "Nailed It!", "img": "placeholder" },
-    { "name": "Chef's Table", "img": "placeholder" },
-    { "name": "90 Day Fiancé", "img": "placeholder" },
-    { "name": "The Bachelor", "img": "placeholder" },
-    { "name": "Love Island", "img": "placeholder" },
-    { "name": "Big Brother", "img": "placeholder" },
-    { "name": "Naked and Afraid", "img": "placeholder" },
-    { "name": "Alone", "img": "placeholder" }
+    { "name": "RuPaul's Drag Race", "img": "https://m.media-amazon.com/images/M/MV5BODJkZjk3MzgtNzhhNy00ZmFhLTkxNzktZGYzOWU4Y2E1MjZkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" },
+    { "name": "Survivor", "img": "https://m.media-amazon.com/images/M/MV5BMzRjYjcyZTItNTA1Mi00YTVkLWE2Y2MtMmRlMzllODkyYzQ2XkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_.jpg" },
+    { "name": "The Great British Bake Off", "img": "https://m.media-amazon.com/images/M/MV5BOTQ0NGFkYmUtODQ2YS00N2FiLWIyNWUtNmJjMDkzMjVlNzIyXkEyXkFqcGdeQXVyMDE4MzA0NQ@@._V1_.jpg" },
+    { "name": "The Masked Singer", "img": "https://m.media-amazon.com/images/M/MV5BOGYwYWNlMjQtMzJlMC00YWI1LTlhZWYtNmVhYzQ1NWZlNDQwXkEyXkFqcGdeQXVyOTM2ODgzMg@@._V1_FMjpg_UX1000_.jpg" },
+    { "name": "The Amazing Race", "img": "https://m.media-amazon.com/images/M/MV5BMDg3NmNjNTItYWU2MC00OWJhLTlkZjQtMmIyNjlhZTViZDljXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_FMjpg_UX1000_.jpg" },
+    { "name": "Queer Eye", "img": "https://m.media-amazon.com/images/M/MV5BMTdiYmYxYjItYjU2OS00NTU3LWJhYTAtYzIxYmNjOTkwMTE0XkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_FMjpg_UX1000_.jpg" },
+    { "name": "Nailed It!", "img": "https://m.media-amazon.com/images/M/MV5BYzZkMzBlZDgtOTFjOS00MDM2LTlkYTctMGJiM2FkYzBmZDVhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" },
+    { "name": "Chef's Table", "img": "https://m.media-amazon.com/images/M/MV5BMjE3MDQ2OTYyN15BMl5BanBnXkFtZTgwNjQ0Nzg0NzM@._V1_FMjpg_UX1000_.jpg" },
+    { "name": "90 Day Fiancé", "img": "https://m.media-amazon.com/images/M/MV5BYTEzOTg0ZDgtZDdiNS00MTlkLWI0ZDMtZjU3YjhlMTcyOTgyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" },
+    { "name": "The Bachelor", "img": "https://m.media-amazon.com/images/M/MV5BMTQ1Y2YzYzktYjNiZS00NDFiLThkM2MtYjEwMjJhMzBlMTZkXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg" },
+    { "name": "Love Island", "img": "https://m.media-amazon.com/images/M/MV5BMDU4NTQwNGUtYzU4ZC00NzFmLWEyZWYtODk1YWQyNDA2ZDEwXkEyXkFqcGdeQXVyNjg0NTcxMTg@._V1_.jpg" },
+    { "name": "Big Brother", "img": "https://m.media-amazon.com/images/M/MV5BZGMxZTYwMmMtYmMxZi00YTkyLWE1NGMtNDBmNmEzNDg0Yzc4XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg" },
+    { "name": "Naked and Afraid", "img": "https://m.media-amazon.com/images/M/MV5BNGFiNDllNjQtNjBkMy00ZWQxLThlNDktNDBmOWU2MmFlNzExXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_FMjpg_UX1000_.jpg" },
+    { "name": "Alone", "img": "https://m.media-amazon.com/images/M/MV5BNGNmOWQ4NjYtMjg4Zi00MjA0LTliZjEtMGYyMzExYTc4NzExXkEyXkFqcGdeQXVyNjcwMzExMzU@._V1_QL75_UX190_CR0,2,190,281_.jpg" }
   ]
 }
