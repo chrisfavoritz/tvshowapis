@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "name": "Roy Kent",
+      "img": "https://static.wikia.nocookie.net/ted-lasso/images/9/93/CoachKent.jpg/revision/latest?cb=20230531161801"
+    },
+    {
+      "name": "Jamie Tartt",
+      "img": "https://static.wikia.nocookie.net/ted-lasso/images/6/64/Jamie_Tartt_%289%29.jpg/revision/latest?cb=20211005091422"
+    },
+    {
+      "name": "Sam Obisanya",
+      "img": "https://static.wikia.nocookie.net/ted-lasso/images/f/ff/Sam_Obisanya_%2824%29.jpg/revision/latest?cb=20211005091339"
+    },
+    {
+      "name": "Colin Hughes",
+      "img": "https://static.wikia.nocookie.net/ted-lasso/images/4/4d/Colin_Hughes_%2812%29.jpg/revision/latest/scale-to-width-down/1000?cb=20211005083335"
+    },
+    {
+      "name": "Isaac McAdoo",
+      "img": "https://static.wikia.nocookie.net/ted-lasso/images/3/3c/4339393-bebop_03_01.jpg/revision/latest?cb=20211108191015"
+    },
+    {
+      "name": "Dani Rojas",
+      "img": "https://static.wikia.nocookie.net/ted-lasso/images/d/d4/Dani_Rojas_%2814%29.jpg/revision/latest/scale-to-width-down/1000?cb=20211005083256"
+    },
+    {
+      "name": "Richard Montlaur",
+      "img": "https://static.wikia.nocookie.net/ted-lasso/images/c/c2/Richard_Montlaur_%288%29.jpg/revision/latest/scale-to-width-down/1000?cb=20211005083906"
+    },
+    {
+      "name": "Thierry Zoreaux",
+      "img": "https://static.wikia.nocookie.net/ted-lasso/images/1/1b/Thierry_Zoreaux_%2881%29.jpg/revision/latest?cb=20211005083933"
+    },
+    {
+      "name": "Jan Maas",
+      "img": "https://static.wikia.nocookie.net/ted-lasso/images/d/d1/Jan_Maas_%2813%29.jpg/revision/latest?cb=20211005083610"
+    },
+    {
+      "name": "Moe Bumbercatch",
+      "img": "https://static.wikia.nocookie.net/ted-lasso/images/9/97/Moe_Bumbercatch_%2821%29.jpg/revision/latest/scale-to-width-down/1000?cb=20211005083823"
+    },
+    {
+      "name": "Zava",
+      "img": "https://static.wikia.nocookie.net/ted-lasso/images/7/74/Zava.jpg/revision/latest?cb=20230325104126"
+    }
+  ]
+}
