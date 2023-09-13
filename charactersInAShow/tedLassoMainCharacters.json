@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "name": "Ted Lasso",
+      "img": "https://static.wikia.nocookie.net/ted-lasso/images/0/06/TL.jpg/revision/latest?cb=20220608064407"
+    },
+    {
+      "name": "Rebecca Welton",
+      "img": "https://static.wikia.nocookie.net/ted-lasso/images/6/67/RW.jpg/revision/latest?cb=20220608064146"
+    },
+    {
+      "name": "Roy Kent",
+      "img": "https://static.wikia.nocookie.net/ted-lasso/images/9/93/CoachKent.jpg/revision/latest?cb=20230531161801"
+    },
+    {
+      "name": "Keeley Jones",
+      "img": "https://static.wikia.nocookie.net/ted-lasso/images/a/a3/KJ.jpg/revision/latest?cb=20220608064317"
+    },
+    {
+      "name": "Jamie Tartt",
+      "img": "https://static.wikia.nocookie.net/ted-lasso/images/6/64/Jamie_Tartt_%289%29.jpg/revision/latest?cb=20211005091422"
+    },
+    {
+      "name": "Sam Obisanya",
+      "img": "https://static.wikia.nocookie.net/ted-lasso/images/f/ff/Sam_Obisanya_%2824%29.jpg/revision/latest?cb=20211005091339"
+    },
+    {
+      "name": "Coach Beard",
+      "img": "https://static.wikia.nocookie.net/ted-lasso/images/b/b6/CB.jpg/revision/latest?cb=20220405135556"
+    },
+    {
+      "name": "Nathan Shelley",
+      "img": "https://static.wikia.nocookie.net/ted-lasso/images/8/89/Nate.jpg/revision/latest?cb=20220528084422"
+    },
+    {
+      "name": "Leslie Higgins",
+      "img": "https://static.wikia.nocookie.net/ted-lasso/images/1/18/6.jpg/revision/latest?cb=20220402142518"
+    },
+    {
+      "name": "Colin Hughes",
+      "img": "https://static.wikia.nocookie.net/ted-lasso/images/4/4d/Colin_Hughes_%2812%29.jpg/revision/latest/scale-to-width-down/1000?cb=20211005083335"
+    },
+    {
+      "name": "Isaac McAdoo",
+      "img": "https://static.wikia.nocookie.net/ted-lasso/images/3/3c/4339393-bebop_03_01.jpg/revision/latest?cb=20211108191015"
+    },
+    {
+      "name": "Dani Rojas",
+      "img": "https://static.wikia.nocookie.net/ted-lasso/images/d/d4/Dani_Rojas_%2814%29.jpg/revision/latest/scale-to-width-down/1000?cb=20211005083256"
+    },
+    {
+      "name": "Rupert Mannion",
+      "img": "https://static.wikia.nocookie.net/ted-lasso/images/c/ce/RupertMannion.jpg/revision/latest?cb=20230523065058"
+    },
+    {
+      "name": "Trent Crimm",
+      "img": "https://static.wikia.nocookie.net/ted-lasso/images/1/18/Trent_Crimm.jpg/revision/latest?cb=20200817181907"
+    }
+  ]
+}
