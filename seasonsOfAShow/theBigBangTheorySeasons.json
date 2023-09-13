@@ -1,16 +1,16 @@
 {
   "items": [
-    { "name": "Season 1 (2007-2008)", "img": "placeholder" },
-    { "name": "Season 2 (2008-2009)", "img": "placeholder" },
-    { "name": "Season 3 (2009-2010)", "img": "placeholder" },
-    { "name": "Season 4 (2010-2011)", "img": "placeholder" },
-    { "name": "Season 5 (2011-2012)", "img": "placeholder" },
-    { "name": "Season 6 (2012-2013)", "img": "placeholder" },
-    { "name": "Season 7 (2013-2014)", "img": "placeholder" },
-    { "name": "Season 8 (2014-2015)", "img": "placeholder" },
-    { "name": "Season 9 (2015-2016)", "img": "placeholder" },
-    { "name": "Season 10 (2016-2017)", "img": "placeholder" },
-    { "name": "Season 11 (2017-2018)", "img": "placeholder" },
-    { "name": "Season 12 (2018-2019)", "img": "placeholder" }
+    { "name": "Season 1 (2007-2008)", "img": "https://static.wikia.nocookie.net/bigbangtheory/images/7/7c/Season_1_DVD_Cover.jpg/revision/latest/scale-to-width-down/1000?cb=20140808212703" },
+    { "name": "Season 2 (2008-2009)", "img": "https://static.wikia.nocookie.net/bigbangtheory/images/b/bf/Season_2_DVD_Cover.jpg/revision/latest/scale-to-width-down/1000?cb=20140808220620" },
+    { "name": "Season 3 (2009-2010)", "img": "https://static.wikia.nocookie.net/bigbangtheory/images/f/f2/The_Big_Bang_Theory_Season_3_DVD.png/revision/latest/scale-to-width-down/1000?cb=20140808222056" },
+    { "name": "Season 4 (2010-2011)", "img": "https://static.wikia.nocookie.net/bigbangtheory/images/8/8e/The_Big_Bang_Theory_Season_4_DVD.jpg/revision/latest/scale-to-width-down/1000?cb=20140808222235" },
+    { "name": "Season 5 (2011-2012)", "img": "https://static.wikia.nocookie.net/bigbangtheory/images/e/e6/The_Big_Bang_Theory_S5_DVD.jpg/revision/latest/scale-to-width-down/1000?cb=20140808222348" },
+    { "name": "Season 6 (2012-2013)", "img": "https://static.wikia.nocookie.net/bigbangtheory/images/0/0b/Season_6.jpg/revision/latest/scale-to-width-down/1000?cb=20140808222839" },
+    { "name": "Season 7 (2013-2014)", "img": "https://static.wikia.nocookie.net/bigbangtheory/images/3/3e/The_Big_Bang_Theory_Season_7.jpeg/revision/latest?cb=20221214180644" },
+    { "name": "Season 8 (2014-2015)", "img": "https://static.wikia.nocookie.net/bigbangtheory/images/e/e2/The_Complete_Eighth_Season_DVD.jpg/revision/latest/scale-to-width-down/1000?cb=20151001011903" },
+    { "name": "Season 9 (2015-2016)", "img": "https://static.wikia.nocookie.net/bigbangtheory/images/0/0e/The_Big_Bang_Theory_Season_9_DVD_Cover_photo.jpg/revision/latest?cb=20170725200722" },
+    { "name": "Season 10 (2016-2017)", "img": "https://static.wikia.nocookie.net/bigbangtheory/images/4/44/The_Big_Bang_Theory_Season_10-0.jpg/revision/latest/scale-to-width-down/1000?cb=20180127053909" },
+    { "name": "Season 11 (2017-2018)", "img": "https://static.wikia.nocookie.net/bigbangtheory/images/0/07/The_Big_Bang_Theory_Season_11.jpeg/revision/latest?cb=20180619165911" },
+    { "name": "Season 12 (2018-2019)", "img": "https://static.wikia.nocookie.net/bigbangtheory/images/b/b3/The.big_.bang_.theory.season.12-dvd.cover_.jpg/revision/latest?cb=20190928140314" }
   ]
 }
