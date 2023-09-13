@@ -1,14 +1,14 @@
 {
   "items": [
-    { "name": "The Tonight Show Starring Jimmy Fallon", "img": "placeholder" },
-    { "name": "The Late Show with Stephen Colbert", "img": "placeholder" },
-    { "name": "Jimmy Kimmel Live!", "img": "placeholder" },
-    { "name": "The Ellen DeGeneres Show", "img": "placeholder" },
-    { "name": "The Daily Show with Trevor Noah", "img": "placeholder" },
-    { "name": "Last Week Tonight with John Oliver", "img": "placeholder" },
-    { "name": "Conan", "img": "placeholder" },
-    { "name": "Late Night with Seth Meyers", "img": "placeholder" },
-    { "name": "The Kelly Clarkson Show", "img": "placeholder" },
-    { "name": "The View", "img": "placeholder" }
+    { "name": "The Tonight Show Starring Jimmy Fallon", "img": "https://m.media-amazon.com/images/M/MV5BNjAyMDJhZjMtNTkzOS00ZjYzLTlkNjktOTNhMWU4Njg5ZTIyXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_.jpg" },
+    { "name": "The Late Show with Stephen Colbert", "img": "https://m.media-amazon.com/images/M/MV5BOWU2MDU1ZjEtMDFhZC00NDQ4LTg5NzQtYjQ0Njg2NWI0MDI4XkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_.jpg" },
+    { "name": "Jimmy Kimmel Live!", "img": "https://m.media-amazon.com/images/M/MV5BMTFhOWQwMTktYTJlOS00ZGExLWIzMDYtNGU2NTFiOTZjNDZjXkEyXkFqcGdeQXVyNjg3MDM4Mzc@._V1_.jpg" },
+    { "name": "The Ellen DeGeneres Show", "img": "https://m.media-amazon.com/images/M/MV5BODA5ZDQyMzYtZWQwMy00MDQ1LWE2OGUtNGYyNTk0Y2NhZGM4XkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_.jpg" },
+    { "name": "The Daily Show with Trevor Noah", "img": "https://flxt.tmsimg.com/assets/p11830638_b_v8_ar.jpg" },
+    { "name": "Last Week Tonight with John Oliver", "img": "https://m.media-amazon.com/images/M/MV5BNjRhYTgyZGEtOGU2YS00ZGM1LWIzODctZDhkNDBiYTFhZTYxXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_FMjpg_UX1000_.jpg" },
+    { "name": "Conan", "img": "https://m.media-amazon.com/images/M/MV5BNTk0NmY0NWItYzM0Yi00MTlmLWE5YjItYTY1MTNlMzg4ZGZjXkEyXkFqcGdeQXVyODQyNDU2MTU@._V1_FMjpg_UX1000_.jpg" },
+    { "name": "Late Night with Seth Meyers", "img": "https://m.media-amazon.com/images/M/MV5BYTAwMjQ5MWQtYWU1Zi00OTFkLTlmZjYtNTY0MDQzYWU0MDNkXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_.jpg" },
+    { "name": "The Kelly Clarkson Show", "img": "https://m.media-amazon.com/images/M/MV5BYTdmZDA0YTItMWUxMC00NTJmLWFkZmQtNGM2MjIyMTY4N2FjXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_.jpg" },
+    { "name": "The View", "img": "https://m.media-amazon.com/images/M/MV5BMTQ1MjgyNzE4OV5BMl5BanBnXkFtZTgwMjgyMTkwMjE@._V1_.jpg" }
   ]
 }
