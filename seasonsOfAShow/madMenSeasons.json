@@ -1,12 +1,12 @@
 {
   "items": [
-    { "name": "Season 1 (2007)", "img": "placeholder" },
-    { "name": "Season 2 (2008)", "img": "placeholder" },
-    { "name": "Season 3 (2009)", "img": "placeholder" },
-    { "name": "Season 4 (2010)", "img": "placeholder" },
-    { "name": "Season 5 (2012)", "img": "placeholder" },
-    { "name": "Season 6 (2013)", "img": "placeholder" },
-    { "name": "Season 7 (Part 1) (2014)", "img": "placeholder" },
-    { "name": "Season 7 (Part 2) (2015)", "img": "placeholder" }
+    { "name": "Season 1 (2007)", "img": "https://static.wikia.nocookie.net/madmen/images/3/37/415727.1020.jpeg/revision/latest?cb=20120313050419" },
+    { "name": "Season 2 (2008)", "img": "https://static.wikia.nocookie.net/madmen/images/5/5a/Mad_men_season_2_poster_amc.jpeg/revision/latest/scale-to-width-down/284?cb=20120313050547" },
+    { "name": "Season 3 (2009)", "img": "https://static.wikia.nocookie.net/madmen/images/8/8c/Season_3.jpeg/revision/latest/scale-to-width-down/284?cb=20120313050635" },
+    { "name": "Season 4 (2010)", "img": "https://static.wikia.nocookie.net/madmen/images/6/67/Mad-men-season-4_510.jpeg/revision/latest/scale-to-width-down/284?cb=20120313050843" },
+    { "name": "Season 5 (2012)", "img": "https://static.wikia.nocookie.net/madmen/images/0/0e/Madmenxl120227061549.jpeg/revision/latest/scale-to-width-down/284?cb=20120228022912" },
+    { "name": "Season 6 (2013)", "img": "https://static.wikia.nocookie.net/madmen/images/b/bb/Season_6_poster.jpg/revision/latest/scale-to-width-down/284?cb=20130311202432" },
+    { "name": "Season 7 (Part 1) (2014)", "img": "https://static.wikia.nocookie.net/madmen/images/2/24/Mad_Men_Season_7_poster.jpg/revision/latest/scale-to-width-down/284?cb=20140307230817" },
+    { "name": "Season 7 (Part 2) (2015)", "img": "https://static.wikia.nocookie.net/madmen/images/2/24/Mad_Men_Season_7_poster.jpg/revision/latest/scale-to-width-down/284?cb=20140307230817" }
   ]
 }
