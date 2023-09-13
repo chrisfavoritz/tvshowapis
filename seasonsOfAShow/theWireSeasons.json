@@ -1,9 +1,9 @@
 {
   "items": [
-    { "name": "Season 1 (2002)", "img": "placeholder" },
-    { "name": "Season 2 (2003)", "img": "placeholder" },
-    { "name": "Season 3 (2004)", "img": "placeholder" },
-    { "name": "Season 4 (2006)", "img": "placeholder" },
-    { "name": "Season 5 (2008)", "img": "placeholder" }
+    { "name": "Season 1 (2002)", "img": "https://static.wikia.nocookie.net/thewire/images/b/b1/Season_one.jpg/revision/latest?cb=20071027104422" },
+    { "name": "Season 2 (2003)", "img": "https://static.wikia.nocookie.net/thewire/images/0/01/Season_two.jpg/revision/latest?cb=20071027104810" },
+    { "name": "Season 3 (2004)", "img": "https://static.wikia.nocookie.net/thewire/images/6/69/Season_three.jpg/revision/latest?cb=20071027104800" },
+    { "name": "Season 4 (2006)", "img": "https://static.wikia.nocookie.net/thewire/images/e/ee/Season_four.jpg/revision/latest?cb=20071027104816" },
+    { "name": "Season 5 (2008)", "img": "https://static.wikia.nocookie.net/thewire/images/3/39/Season_five.jpg/revision/latest?cb=20071127215919" }
   ]
 }
