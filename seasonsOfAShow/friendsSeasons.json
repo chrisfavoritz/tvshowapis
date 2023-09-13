@@ -1,14 +1,14 @@
 {
   "items": [
-    { "name": "Season 1 (1994-1995)", "img": "placeholder" },
-    { "name": "Season 2 (1995-1996)", "img": "placeholder" },
-    { "name": "Season 3 (1996-1997)", "img": "placeholder" },
-    { "name": "Season 4 (1997-1998)", "img": "placeholder" },
-    { "name": "Season 5 (1998-1999)", "img": "placeholder" },
-    { "name": "Season 6 (1999-2000)", "img": "placeholder" },
-    { "name": "Season 7 (2000-2001)", "img": "placeholder" },
-    { "name": "Season 8 (2001-2002)", "img": "placeholder" },
-    { "name": "Season 9 (2002-2003)", "img": "placeholder" },
-    { "name": "Season 10 (2003-2004)", "img": "placeholder" }
+    { "name": "Season 1 (1994-1995)", "img": "https://static.wikia.nocookie.net/friends/images/9/9e/Friends-S1Promo.jpg/revision/latest?cb=20160529164018" },
+    { "name": "Season 2 (1995-1996)", "img": "https://static.wikia.nocookie.net/friends/images/5/57/Friends_s2.jpg/revision/latest?cb=20101007091807" },
+    { "name": "Season 3 (1996-1997)", "img": "https://static.wikia.nocookie.net/friends/images/0/09/Friends-Cast-Season-3.jpg/revision/latest/scale-to-width-down/1000?cb=20100802185848" },
+    { "name": "Season 4 (1997-1998)", "img": "https://static.wikia.nocookie.net/friends/images/a/af/Season7-promoshoot.jpg/revision/latest/scale-to-width-down/1000?cb=20090726000643" },
+    { "name": "Season 5 (1998-1999)", "img": "https://static.wikia.nocookie.net/friends/images/9/91/Cast1.jpg/revision/latest?cb=20160529163637" },
+    { "name": "Season 6 (1999-2000)", "img": "https://static.wikia.nocookie.net/friends/images/9/90/Friends_cast_s6.jpg/revision/latest?cb=20101007091620" },
+    { "name": "Season 7 (2000-2001)", "img": "https://static.wikia.nocookie.net/friends/images/6/61/Street-promo-front.jpg/revision/latest/scale-to-width-down/1000?cb=20090726022959" },
+    { "name": "Season 8 (2001-2002)", "img": "https://static.wikia.nocookie.net/friends/images/8/8a/Beach-promo-group.jpg/revision/latest?cb=20090726072025" },
+    { "name": "Season 9 (2002-2003)", "img": "https://static.wikia.nocookie.net/friends/images/8/88/Friends-s9.jpg/revision/latest?cb=20110911163319" },
+    { "name": "Season 10 (2003-2004)", "img": "https://static.wikia.nocookie.net/friends/images/1/1d/S10-Promo.jpg/revision/latest?cb=20090726215212" }
   ]
 }
