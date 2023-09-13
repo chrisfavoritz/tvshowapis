@@ -2,63 +2,63 @@
   "items": [
     {
       "name": "John Belushi",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/snl/images/d/dd/John.jpg/revision/latest/scale-to-width-down/1000?cb=20100716004941"
     },
     {
       "name": "Dan Aykroyd",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/snl/images/8/82/Akroyd.JPG/revision/latest?cb=20060930004910"
     },
     {
       "name": "Chevy Chase",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/snl/images/0/0e/Chevy.jpg/revision/latest/scale-to-width-down/1000?cb=20100716004752"
     },
     {
       "name": "Gilda Radner",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/snl/images/3/3b/Radner.jpg/revision/latest/scale-to-width-down/1000?cb=20100716005119"
     },
     {
       "name": "Bill Murray",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/snl/images/4/4c/Bill-murray.jpg/revision/latest/scale-to-width-down/1000?cb=20210516042029"
     },
     {
       "name": "Eddie Murphy",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/snl/images/b/b8/Eddie_Murphy.jpg/revision/latest/scale-to-width-down/1000?cb=20200725013413"
     },
     {
       "name": "Dana Carvey",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/snl/images/3/3e/Dana_Carvey.jpg/revision/latest?cb=20121111041116"
     },
     {
       "name": "Mike Myers",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/snl/images/d/d7/Mike_Myers_Pic.jpg/revision/latest/scale-to-width-down/1000?cb=20200725223350"
     },
     {
       "name": "Phil Hartman",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/snl/images/8/8e/Phil_Hartman.jpg/revision/latest?cb=20121111033808"
     },
     {
       "name": "Will Ferrell",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/snl/images/2/25/Will_Ferrell.jpg/revision/latest/scale-to-width-down/1000?cb=20200726040446"
     },
     {
       "name": "Tina Fey",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/snl/images/a/a1/2_tina-fey.JPG/revision/latest/scale-to-width-down/1000?cb=20210802022737"
     },
     {
       "name": "Amy Poehler",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/snl/images/2/22/Amy_Poehler.jpg/revision/latest/scale-to-width-down/1000?cb=20200726042201"
     },
     {
       "name": "Jimmy Fallon",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/snl/images/0/01/Jimmy_Fallon.jpg/revision/latest/scale-to-width-down/1000?cb=20200726035323"
     },
     {
       "name": "Kristen Wiig",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/snl/images/a/ab/Kristen_Wiig_Pic.jpg/revision/latest/scale-to-width-down/1000?cb=20200725223827"
     },
     {
       "name": "Kate McKinnon",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/snl/images/d/d8/Kate-mckinnon-ghostbusters.jpg/revision/latest/scale-to-width-down/1000?cb=20210127154709"
     }
   ]
 }
