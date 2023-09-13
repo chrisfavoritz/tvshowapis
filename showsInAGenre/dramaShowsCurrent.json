@@ -1,19 +1,18 @@
 {
   "items": [
-    { "name": "Succession", "img": "placeholder" },
-    { "name": "The Crown", "img": "placeholder" },
-    { "name": "The Handmaid's Tale", "img": "placeholder" },
-    { "name": "Mare of Easttown", "img": "placeholder" },
-    { "name": "Yellowjackets", "img": "placeholder" },
-    { "name": "Euphoria", "img": "placeholder" },
-    { "name": "The Morning Show", "img": "placeholder" },
-    { "name": "Billions", "img": "placeholder" },
-    { "name": "Killing Eve", "img": "placeholder" },
-    { "name": "Pose", "img": "placeholder" },
-    { "name": "Line of Duty", "img": "placeholder" },
-    { "name": "The Falcon and the Winter Soldier", "img": "placeholder" },
-    { "name": "The Underground Railroad", "img": "placeholder" },
-    { "name": "Snowfall", "img": "placeholder" },
-    { "name": "The White Lotus", "img": "placeholder" }
+    { "name": "Succession", "img": "https://resizing.flixster.com/eUs5-JlTTZfdXS57_auuM4bU2zI=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vZDc4YmQwNDUtZjBiMi00Y2U1LTljM2MtN2E1MTdhMDE3ZTNiLmpwZw==" },
+    { "name": "The Crown", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/The_Crown_season_4.jpg/220px-The_Crown_season_4.jpg" },
+    { "name": "The Handmaid's Tale", "img": "https://flxt.tmsimg.com/assets/p13630185_b_v9_bb.jpg" },
+    { "name": "Mare of Easttown", "img": "https://m.media-amazon.com/images/M/MV5BMmEwMmViMDQtODM4NC00Y2UyLTg1MTgtOWEwOWJmOGI5NzZmXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_FMjpg_UX1000_.jpg" },
+    { "name": "Yellowjackets", "img": "https://m.media-amazon.com/images/M/MV5BMTkzYTBkYmItN2Q0Zi00ODhiLWI3MzEtNDdiNDRkNWYzOTMyXkEyXkFqcGdeQXVyMTUyMTgzNjY4._V1_FMjpg_UX1000_.jpg" },
+    { "name": "Euphoria", "img": "https://m.media-amazon.com/images/M/MV5BMDMzZDkyNzEtYTY5Ni00NzlhLWI4MzUtY2UzNjNmMjI1YzIzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" },
+    { "name": "The Morning Show", "img": "https://m.media-amazon.com/images/M/MV5BZDhmM2NhNmItOTkzNi00NDMwLTk1M2EtZDdjMDE1NTJkNjE2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" },
+    { "name": "Billions", "img": "https://m.media-amazon.com/images/M/MV5BYTMyZGNjYTUtNzNhYS00MDM0LWJlNjktYTFhMmM3ZjE0ZDMxXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_FMjpg_UX1000_.jpg" },
+    { "name": "Killing Eve", "img": "https://m.media-amazon.com/images/M/MV5BZDJmODFjMzEtNTE4MS00OGViLTk4OGYtZjg3OGFhM2VlOTliXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg" },
+    { "name": "Pose", "img": "https://m.media-amazon.com/images/M/MV5BNmNiZTFlMTAtYWZjNS00NGFlLWFkMTItOWRhOTBjN2Y1NDYxXkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_FMjpg_UX1000_.jpg" },
+    { "name": "Line of Duty", "img": "https://m.media-amazon.com/images/M/MV5BMTExZDZjNTMtNDVmNy00ZTk2LWFiMzUtZDlkZGRlOGU0ZWRmXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_FMjpg_UX1000_.jpg" },
+    { "name": "The Underground Railroad", "img": "https://m.media-amazon.com/images/M/MV5BMTZlYWNlZmYtN2MxYS00ZmQxLWI1ODYtZDRiOGE4Yjg1ZmMxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" },
+    { "name": "Snowfall", "img": "https://m.media-amazon.com/images/M/MV5BYzVjNTRhNWItMzQzZS00MDBkLWIxNDMtOTU4MzRmMmNiZWRiXkEyXkFqcGdeQXVyMTUwMzE3NjY0._V1_FMjpg_UX1000_.jpg" },
+    { "name": "The White Lotus", "img": "https://m.media-amazon.com/images/M/MV5BOWY1YjY1MWUtYWY5Yi00YTM4LTkyM2UtMDQ3NmFiYTkyYjlkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" }
   ]
 }
