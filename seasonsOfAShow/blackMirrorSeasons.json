@@ -1,11 +1,11 @@
 {
   "items": [
-    { "name": "Season 1 (2011)", "img": "placeholder" },
-    { "name": "Season 2 (2013)", "img": "placeholder" },
-    { "name": "Season 3 (2016)", "img": "placeholder" },
-    { "name": "Season 4 (2017)", "img": "placeholder" },
-    { "name": "Black Mirror: Bandersnatch (2018)", "img": "placeholder" },
-    { "name": "Season 5 (2019)", "img": "placeholder" },
-    { "name": "Season 6 (2023)", "img": "placeholder" }
+    { "name": "Season 1 (2011)", "img": "https://www.themoviedb.org/t/p/w500/ztdy1f1cAjwsO0GpVKzNuqZ0PMv.jpg" },
+    { "name": "Season 2 (2013)", "img": "https://www.themoviedb.org/t/p/w500/2MSkpDTRgtDEi0anYpfCNUVVLtt.jpg" },
+    { "name": "Season 3 (2016)", "img": "https://www.themoviedb.org/t/p/original/3mKYrlZpFbpFu7CaVxoleO68MFG.jpg" },
+    { "name": "Season 4 (2017)", "img": "https://www.themoviedb.org/t/p/w500/zvLZvFU6RhdIPEH4afbUa4rmYtW.jpg" },
+    { "name": "Black Mirror: Bandersnatch (2018)", "img": "https://upload.wikimedia.org/wikipedia/en/5/53/Black_mirror_bandersnatch_poster.jpg" },
+    { "name": "Season 5 (2019)", "img": "https://www.themoviedb.org/t/p/original/5xjf5aLeooPYWqH66vB80jMJT9u.jpg" },
+    { "name": "Season 6 (2023)", "img": "https://www.themoviedb.org/t/p/original/paMEC1xDsSPQzJUcLaiHuV72tt4.jpg" }
   ]
 }
