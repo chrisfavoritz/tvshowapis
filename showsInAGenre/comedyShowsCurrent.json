@@ -1,16 +1,16 @@
 {
   "items": [
-    { "name": "Ted Lasso", "img": "placeholder" },
-    { "name": "The Marvelous Mrs. Maisel", "img": "placeholder" },
-    { "name": "Hacks", "img": "placeholder" },
-    { "name": "Brooklyn Nine-Nine", "img": "placeholder" },
-    { "name": "What We Do in the Shadows", "img": "placeholder" },
-    { "name": "Superstore", "img": "placeholder" },
-    { "name": "The Conners", "img": "placeholder" },
-    { "name": "black-ish", "img": "placeholder" },
-    { "name": "Young Sheldon", "img": "placeholder" },
-    { "name": "The Good Place", "img": "placeholder" },
-    { "name": "It's Always Sunny in Philadelphia", "img": "placeholder" },
-    { "name": "The Kominsky Method", "img": "placeholder" }
+    { "name": "Ted Lasso", "img": "https://flxt.tmsimg.com/assets/p18378397_b_v13_ab.jpg" },
+    { "name": "Hacks", "img": "https://flxt.tmsimg.com/assets/p19867876_b_v13_ab.jpg" },
+    { "name": "The Marvelous Mrs. Maisel", "img": "https://static.wikia.nocookie.net/the-marvelous-mrs-maisel/images/2/2c/Season_1_Poster.jpg/revision/latest?cb=20181102161822" },
+    { "name": "Brooklyn Nine-Nine", "img": "https://m.media-amazon.com/images/M/MV5BNzVkYWY4NzYtMWFlZi00YzkwLThhZDItZjcxYTU4ZTMzMDZmXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_.jpg" },
+    { "name": "What We Do in the Shadows", "img": "https://m.media-amazon.com/images/M/MV5BODUwOWE4ZjQtNGQ2MS00MjNjLTgwMGMtZDdlYWU0ZGRhNWFiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg" },
+    { "name": "Superstore", "img": "https://resizing.flixster.com/0kmXRc9rIFaFi3x8P3fbD9shfVU=/206x305/v2/https://flxt.tmsimg.com/assets/p11769882_b_v8_aa.jpg" },
+    { "name": "The Conners", "img": "https://m.media-amazon.com/images/M/MV5BNTAzN2ZlOGEtZmM0ZS00NjU0LTg4MTEtN2JlZWMyYzAwNWY5XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_FMjpg_UX1000_.jpg" },
+    { "name": "black-ish", "img": "https://m.media-amazon.com/images/M/MV5BNzYwNmQwZGItNzdmNy00Y2ZkLWIxYzUtNDY3ZGIyYzY2M2MzXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_FMjpg_UX1000_.jpg" },
+    { "name": "Young Sheldon", "img": "https://m.media-amazon.com/images/M/MV5BZDg3MGNhYjItZGU2Yi00MzU4LWE4NGUtYjA2OTVjNGUyMjE4XkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_.jpg" },
+    { "name": "The Good Place", "img": "https://m.media-amazon.com/images/M/MV5BYmMxNjM0NmItNGU1Mi00OGMwLTkzMzctZmE3YjU1ZDE4NmFjXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_FMjpg_UX1000_.jpg" },
+    { "name": "It's Always Sunny in Philadelphia", "img": "https://m.media-amazon.com/images/M/MV5BMjI0MjMxNjk3OF5BMl5BanBnXkFtZTcwMzgxMDUzNg@@._V1_FMjpg_UX1000_.jpg" },
+    { "name": "The Kominsky Method", "img": "https://m.media-amazon.com/images/M/MV5BMzA0YTNjOTAtNmVkZi00YjBkLTgyZDItOTFmMzQ0N2E4ZDNiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" }
   ]
 }
