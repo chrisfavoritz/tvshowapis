@@ -2,203 +2,243 @@
   "items": [
     {
       "name": "Eddard \"Ned\" Stark",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/3/34/Eddard_Stark.jpg/revision/latest/scale-to-width-down/1000?cb=20190701140812"
     },
     {
       "name": "Catelyn Stark",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/d/d8/CatelynS3Promo.jpg/revision/latest?cb=20190427043743"
     },
     {
       "name": "Jon Snow",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/d/d0/JonSnow8x06.PNG/revision/latest?cb=20190714094440"
     },
     {
       "name": "Robb Stark",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/5/50/S3E9_Robb_Stark_main.jpg/revision/latest?cb=20160718071203"
     },
     {
       "name": "Sansa Stark",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/6/63/QueenSansa.PNG/revision/latest?cb=20210215100224"
     },
     {
       "name": "Arya Stark",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/b/be/AryaShipIronThrone.PNG/revision/latest?cb=20190520174300"
     },
     {
       "name": "Bran Stark",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/8/81/KingBran.PNG/revision/latest?cb=20190520173855"
     },
     {
       "name": "Rickon Stark",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/d/d9/Battle_of_the_Bastards_42.jpg/revision/latest/scale-to-width-down/1000?cb=20160621185459"
     },
     {
       "name": "Daenerys Targaryen",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/4/4f/Daenerys_Season_8.jpg/revision/latest/scale-to-width-down/1000?cb=20190415212013"
     },
     {
       "name": "Tyrion Lannister",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/9/95/HandoftheKingTyrionLannister.PNG/revision/latest?cb=20190520175204"
     },
     {
       "name": "Cersei Lannister",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/b/b0/CERSEIBATTLEOFKINGSLANDING.PNG/revision/latest?cb=20190906021534"
     },
     {
       "name": "Jaime Lannister",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/5/51/JaimeLannisterSeason8.PNG/revision/latest?cb=20190207112813"
     },
     {
       "name": "Tywin Lannister",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/7/71/Tywin_Lannister_4x08.jpg/revision/latest/scale-to-width-down/1000?cb=20170830015346"
     },
     {
       "name": "Joffrey Baratheon",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/2/25/Joffrey_Season_4_Episode_2_TLATR.jpg/revision/latest?cb=20210722092942"
     },
     {
       "name": "Stannis Baratheon",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/2/2f/StannisNew.png/revision/latest?cb=20210313165449"
     },
     {
       "name": "Melisandre",
-      "img": "placeholder"
-    },
-    {
-      "name": "Davos Seaworth",
-      "img": "placeholder"
-    },
-    {
-      "name": "Samwell Tarly",
-      "img": "placeholder"
-    },
-    {
-      "name": "Gilly",
-      "img": "placeholder"
-    },
-    {
-      "name": "Theon Greyjoy",
-      "img": "placeholder"
-    },
-    {
-      "name": "Yara Greyjoy",
-      "img": "placeholder"
-    },
-    {
-      "name": "Ramsay Bolton",
-      "img": "placeholder"
-    },
-    {
-      "name": "Bran's Three-Eyed Raven Persona",
-      "img": "placeholder"
-    },
-    {
-      "name": "Jon Snow's Direwolf, Ghost",
-      "img": "placeholder"
-    },
-    {
-      "name": "Daenerys' Dragons: Drogon, Rhaegal, and Viserion",
-      "img": "placeholder"
-    },
-    {
-      "name": "Sandor \"The Hound\" Clegane",
-      "img": "placeholder"
-    },
-    {
-      "name": "Gregor \"The Mountain\" Clegane",
-      "img": "placeholder"
-    },
-    {
-      "name": "Varys",
-      "img": "placeholder"
-    },
-    {
-      "name": "Petyr \"Littlefinger\" Baelish",
-      "img": "placeholder"
-    },
-    {
-      "name": "Olenna Tyrell",
-      "img": "placeholder"
-    },
-    {
-      "name": "Margaery Tyrell",
-      "img": "placeholder"
-    },
-    {
-      "name": "Brienne of Tarth",
-      "img": "placeholder"
-    },
-    {
-      "name": "Bronn",
-      "img": "placeholder"
-    },
-    {
-      "name": "Tormund Giantsbane",
-      "img": "placeholder"
-    },
-    {
-      "name": "Jorah Mormont",
-      "img": "placeholder"
-    },
-    {
-      "name": "Grey Worm",
-      "img": "placeholder"
-    },
-    {
-      "name": "Missandei",
-      "img": "placeholder"
-    },
-    {
-      "name": "Hodor",
-      "img": "placeholder"
-    },
-    {
-      "name": "Podrick Payne",
-      "img": "placeholder"
-    },
-    {
-      "name": "Shae",
-      "img": "placeholder"
-    },
-    {
-      "name": "Ser Barristan Selmy",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/0/07/Melisandre_%28The_Queen%27s_Justice%29.png/revision/latest?cb=20170830235514"
     },
     {
       "name": "Ser Davos Seaworth",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/9/9d/DAVOSINFOBOXBELLS.PNG/revision/latest?cb=20190513052340"
     },
     {
-      "name": "Gendry",
-      "img": "placeholder"
+      "name": "Samwell Tarly",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/8/8f/Maester_Sam.png/revision/latest?cb=20190609215621"
+    },
+    {
+      "name": "Gilly",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/a/ad/Gilly8x02.PNG/revision/latest?cb=20190417232735"
+    },
+    {
+      "name": "Theon Greyjoy",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/7/78/TheonS8E1.PNG/revision/latest?cb=20190415192721"
+    },
+    {
+      "name": "Yara Greyjoy",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/a/a8/Game_of_thrones_6x5_yara_promo.jpg/revision/latest?cb=20160808022737"
+    },
+    {
+      "name": "Ramsay Bolton",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/d/d2/Ramsay_S06E09_RESZIED_FOR_INFOBOX.jpg/revision/latest/scale-to-width-down/1000?cb=20160622071734"
+    },
+    {
+      "name": "Ghost",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/9/94/804_Ghost_Profile.png/revision/latest?cb=20190506030424"
+    },
+    {
+      "name": "Drogon",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/8/8f/DrogonWinterfell8x01.PNG/revision/latest?cb=20190515233534"
+    },
+    {
+      "name": "Rhaegal",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/5/54/RhaegalPostFlight.PNG/revision/latest?cb=20190415050236"
+    },
+    {
+      "name": "Viserion",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/c/c6/Viseron_dragon_finale.jpg/revision/latest?cb=20170904183133"
+    },
+    {
+      "name": "Sandor \"The Hound\" Clegane",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/b/b5/SandorConfrontsGregor.PNG/revision/latest?cb=20210722093812"
+    },
+    {
+      "name": "Gregor \"The Mountain\" Clegane",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/b/be/Gregor_Clegane_4x07.jpg/revision/latest?cb=20140707234843"
+    },
+    {
+      "name": "Varys",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/f/ff/Varys8x05Dragonstone.PNG/revision/latest?cb=20190513041715"
+    },
+    {
+      "name": "Petyr \"Littlefinger\" Baelish",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/9/9f/Profile-Littlefinger.png/revision/latest?cb=20170826005231"
+    },
+    {
+      "name": "Olenna Tyrell",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/f/f2/OlennaS7E3.png/revision/latest?cb=20170803074257"
+    },
+    {
+      "name": "Margaery Tyrell",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/b/b5/Margaery_Tyrell_S6.png/revision/latest?cb=20210722163311"
+    },
+    {
+      "name": "Loras Tyrell",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/0/02/LorasTyrell5X06.PNG/revision/latest?cb=20181013200613"
+    },
+    {
+      "name": "Renly Baratheon",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/f/ff/Profile-Renly_Baratheon.png/revision/latest?cb=20171006064500"
+    },
+    {
+      "name": "Brienne of Tarth",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/a/a9/S8_Brienne_Profil.jpg/revision/latest?cb=20190423165941"
+    },
+    {
+      "name": "Robert Baratheon",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/4/43/Robert_crop.png/revision/latest?cb=20210223122212"
+    },
+    {
+      "name": "Tormund Giantsbane",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/9/97/Tormund_Profile.PNG/revision/latest?cb=20170818044433"
     },
     {
       "name": "Jorah Mormont",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/2/26/Winterfell_ep_Jorah_s8.jpg/revision/latest?cb=20210722093523"
+    },
+    {
+      "name": "Grey Worm",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/7/77/Grey-Worm-S8E5.png/revision/latest?cb=20190508211715"
+    },
+    {
+      "name": "Missandei",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/d/de/Missandei8X04.PNG/revision/latest?cb=20190722224410"
+    },
+    {
+      "name": "Ygritte",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/2/28/Ygritte-promotionals4pic.jpg/revision/latest?cb=20170107042949"
+    },
+    {
+      "name": "Hodor",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/1/18/Season_6_hodor_main.jpg/revision/latest?cb=20210722015036"
+    },
+    {
+      "name": "Podrick Payne",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/2/22/Podrick8x01.PNG/revision/latest?cb=20190427145446"
+    },
+    {
+      "name": "Shae",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/0/01/Shae_in_Two_Swords.png/revision/latest?cb=20140505142823"
+    },
+    {
+      "name": "Ser Barristan Selmy",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/1/1f/Barristan_Selmy_Sons_of_the_Harpy.jpg/revision/latest?cb=20150504180820"
+    },
+    {
+      "name": "Khal Drogo",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/2/21/Khal_Drogo_infobox_promo.jpg/revision/latest?cb=20190427051349"
+    },
+    {
+      "name": "Gendry",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/7/7b/GendryBaratheon.png/revision/latest?cb=20190520221935"
+    },
+    {
+      "name": "Euron Greyjoy",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/f/fc/Euron-Profile.PNG/revision/latest?cb=20210722093627"
     },
     {
       "name": "Ser Bronn of the Blackwater",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/f/f5/Bronn_S8E6.png/revision/latest?cb=20210722075802"
     },
     {
       "name": "High Sparrow",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/3/3b/Blood_of_My_Blood_16.jpg/revision/latest/scale-to-width-down/1000?cb=20160527164016"
+    },
+    {
+      "name": "Night King",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/1/1f/Night_King_BTW.jpg/revision/latest?cb=20210722093007"
+    },
+    {
+      "name": "Oberyn Martell",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/4/44/Oberyn-Martell-house-martell_s3.jpg/revision/latest?cb=20190427200207"
+    },
+    {
+      "name": "Walder Frey",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/e/e4/S06E06_-_Walder_Frey_Cropped_new.jpg/revision/latest?cb=20161215025257"
+    },
+    {
+      "name": "Tommen Baratheon",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/7/7c/Tommen_blood_of_my_blood.jpg/revision/latest?cb=20160530234845"
     },
     {
       "name": "Maester Aemon",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/3/32/Aemonepisode5.png/revision/latest?cb=20190427054732"
     },
     {
       "name": "Mance Rayder",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/1/17/GOT_Season_5_10.jpg/revision/latest/scale-to-width-down/1000?cb=20160826005613"
     },
     {
-      "name": "Jojen and Meera Reed",
-      "img": "placeholder"
+      "name": "Meera Reed",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/9/93/Meera_Infobox.PNG/revision/latest?cb=20170807214241"
+    },
+    {
+      "name": "Jojen Reed",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/2/23/Jojen-Reed-Profile.jpg/revision/latest?cb=20170904015452"
     },
     {
       "name": "Roose Bolton",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/2/26/Profile-RooseBolton.png/revision/latest?cb=20170728090234"
+    },
+    {
+      "name": "Lyanna Mormont",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/b/b9/Lyanna_S8_EP2infobox.jpg/revision/latest/scale-to-width-down/298?cb=20190418000519"
     }
   ]
 }
