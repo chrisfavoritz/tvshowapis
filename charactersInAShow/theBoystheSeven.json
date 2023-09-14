@@ -1,0 +1,12 @@
+{
+  "items": [
+    { "name": "Homelander", "img": "https://static.wikia.nocookie.net/amazons-the-boys/images/5/5b/Homelander-S3.png/revision/latest/scale-to-width-down/1000?cb=20220604010605" },
+    { "name": "The Deep (Kevin)", "img": "https://static.wikia.nocookie.net/amazons-the-boys/images/f/f8/Deep-S3.png/revision/latest/scale-to-width-down/1000?cb=20220604011135" },
+    { "name": "Queen Maeve (Margaret Shaw)", "img": "https://static.wikia.nocookie.net/amazons-the-boys/images/2/27/Queen-Maeve-S3.png/revision/latest/scale-to-width-down/1000?cb=20220604010748" },
+    { "name": "A-Train (Reggie Franklin)", "img": "https://static.wikia.nocookie.net/amazons-the-boys/images/6/65/A-Train-S3.png/revision/latest/scale-to-width-down/1000?cb=20220604010944" },
+    { "name": "Black Noir", "img": "https://static.wikia.nocookie.net/amazons-the-boys/images/8/8b/Black-Noire-S3.png/revision/latest/scale-to-width-down/1000?cb=20220604011407" },
+    { "name": "Supersonic", "img": "https://static.wikia.nocookie.net/amazons-the-boys/images/6/6d/Supersonic.png/revision/latest?cb=20210807214710" },
+    { "name": "Translucent", "img": "https://static.wikia.nocookie.net/amazons-the-boys/images/6/63/TheSeven-Translucent.png/revision/latest?cb=20200913202918" },
+    { "name": "Lamplighter", "img": "https://static.wikia.nocookie.net/amazons-the-boys/images/7/76/Lamplighter.png/revision/latest?cb=20200925062857" },
+    { "name": "Stormfront (Liberty)", "img": "https://static.wikia.nocookie.net/amazons-the-boys/images/b/bd/Stormfront_S2.jpg/revision/latest?cb=20200808194916" }
+}
