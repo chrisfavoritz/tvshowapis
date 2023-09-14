@@ -1,0 +1,10 @@
+{
+  "items": [
+    { "name": "Billy Butcher", "img": "https://static.wikia.nocookie.net/amazons-the-boys/images/6/6b/Billy-Butcher-S3.png/revision/latest/scale-to-width-down/1000?cb=20220604005831" },
+    { "name": "Hughie Campbell", "img": "https://static.wikia.nocookie.net/amazons-the-boys/images/d/d6/Hughie-Campbell-S3.png/revision/latest/scale-to-width-down/1000?cb=20220604005949" },
+    { "name": "Starlight (Annie January)", "img": "https://static.wikia.nocookie.net/amazons-the-boys/images/f/fa/Starlight-S3.png/revision/latest/scale-to-width-down/1000?cb=20220604010441" },
+    { "name": "Frenchie (Serge)", "img": "https://static.wikia.nocookie.net/amazons-the-boys/images/f/fb/Frenchie-S3.png/revision/latest/scale-to-width-down/1000?cb=20220604010328" },
+    { "name": "Kimiko Miyashiro (The Female)", "img": "https://static.wikia.nocookie.net/amazons-the-boys/images/7/79/Kimiko-S3.png/revision/latest/scale-to-width-down/1000?cb=20220604010204" },
+    { "name": "Mother's Milk (MM)", "img": "https://static.wikia.nocookie.net/amazons-the-boys/images/7/71/Mothers-Milk-S3.png/revision/latest/scale-to-width-down/1000?cb=20220604010100" }
+  ]
+}
