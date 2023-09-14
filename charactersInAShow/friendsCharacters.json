@@ -1,64 +1,64 @@
 {
   "items": [
     {
-      "name": "Rachel Green",
-      "img": "placeholder"
+      "name": "Rachel Greene",
+      "img": "https://static.wikia.nocookie.net/friends/images/f/f7/Rachel_Greene.jpg/revision/latest?cb=20180426182043"
     },
     {
       "name": "Ross Geller",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/friends/images/0/0b/RossGeller.jpg/revision/latest?cb=20180424154547"
     },
     {
       "name": "Monica Geller",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/friends/images/2/2f/Monica_Geller-Bing_Season_10.png/revision/latest?cb=20180426182234"
     },
     {
       "name": "Chandler Bing",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/friends/images/4/48/Chandler_Bing_portrait.jpg/revision/latest?cb=20100601130820"
     },
     {
       "name": "Joey Tribbiani",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/friends/images/f/f5/JoeyTribbiani.jpg/revision/latest?cb=20180424154245"
     },
     {
       "name": "Phoebe Buffay",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/friends/images/3/30/PhoebeBuffay.jpg/revision/latest?cb=20180426182547"
     },
     {
       "name": "Gunther",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/friends/images/3/3d/Gunther.png/revision/latest?cb=20160612222854"
     },
     {
       "name": "Janice Litman-Goralnik",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/friends/images/3/32/300px-Janice.jpg/revision/latest?cb=20080903003317"
     },
     {
       "name": "Richard Burke",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/friends/images/f/f3/Richard_Burke.jpg/revision/latest?cb=20180321212723"
     },
     {
       "name": "Carol Willick",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/friends/images/4/48/Carolwillick.jpg/revision/latest?cb=20160529221244"
     },
     {
       "name": "Susan Bunch",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/friends/images/d/d2/SusanBunch.jpg/revision/latest?cb=20080901224505"
     },
     {
       "name": "Judy Geller",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/friends/images/5/59/Judygeller.jpg/revision/latest?cb=20080803015424"
     },
     {
       "name": "Jack Geller",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/friends/images/2/24/Jackgeller.jpg/revision/latest?cb=20080803011213"
     },
     {
       "name": "Estelle Leonard",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/friends/images/2/27/Estelle.jpg/revision/latest?cb=20080729071521"
     },
     {
       "name": "Mike Hannigan",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/friends/images/0/0d/Mike_Hannigan.jpeg/revision/latest?cb=20180321211517"
     }
   ]
 }
