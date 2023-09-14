@@ -2,147 +2,143 @@
   "items": [
     {
       "name": "Tony Soprano",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/c/c2/Tony_Soprano.jpg/revision/latest/scale-to-width-down/1000?cb=20211117185559"
     },
     {
       "name": "Carmela Soprano",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/3/3f/New_carmela.webp/revision/latest/scale-to-width-down/1000?cb=20230115005346"
     },
     {
       "name": "Dr. Jennifer Melfi",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/3/36/JenniferMelfi.jpg/revision/latest?cb=20080701001621"
     },
     {
       "name": "Christopher Moltisanti",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/f/ff/Christopher_Moltisanti.jpg/revision/latest/scale-to-width-down/1000?cb=20160922133720"
     },
     {
       "name": "Paulie \"Paulie Walnuts\" Gualtieri",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/c/c5/Paulie1.jpg/revision/latest?cb=20200715005523"
     },
     {
       "name": "Silvio Dante",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/a/a7/Silvio1.jpg/revision/latest?cb=20110422182209"
     },
     {
       "name": "Adriana La Cerva",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/7/75/Adriana_La_Cerva_Profile.png/revision/latest/scale-to-width-down/1000?cb=20230707161550"
     },
     {
       "name": "Junior Soprano",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/6/6d/Corrado_Junior_Soprano.jpg/revision/latest?cb=20160922163826"
     },
     {
       "name": "Bobby \"Bacala\" Baccalieri",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/5/5f/Bacala.jpg/revision/latest?cb=20091216120453"
     },
     {
       "name": "Johnny \"Sack\" Sacramoni",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/e/e1/Johnny_Sacrimoni.jpg/revision/latest/scale-to-width-down/1000?cb=20230626175139"
     },
     {
       "name": "Richie Aprile",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/9/9c/Richie_Aprile.jpg/revision/latest?cb=20200402205803"
     },
     {
       "name": "Janice Soprano",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/6/60/Janice.jpg/revision/latest/scale-to-width-down/1000?cb=20221117105010"
     },
     {
       "name": "Meadow Soprano",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/b/b8/Meadow_Soprano_Profile.png/revision/latest/scale-to-width-down/1000?cb=20230430185516"
     },
     {
       "name": "Anthony \"A.J.\" Soprano Jr.",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/0/08/Aj.jpg/revision/latest?cb=20140313032739"
     },
     {
       "name": "Livia Soprano",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/5/58/Livia_Soprano-2.jpg/revision/latest/scale-to-width-down/1000?cb=20210723182742"
     },
     {
       "name": "Ralph Cifaretto",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/1/15/Raplh.PNG/revision/latest?cb=20190318041407"
     },
     {
       "name": "Furio Giunta",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/d/d5/Furio_Giunta_.jpg/revision/latest?cb=20110126185955"
     },
     {
       "name": "Hesh Rabkin",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/d/d6/Herman_%27Hesh%27_Rabkin.jpg/revision/latest?cb=20210725180901"
     },
     {
       "name": "Artie Bucco",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/4/4d/Artie_Bucco.jpg/revision/latest/scale-to-width-down/1000?cb=20111119212659"
     },
     {
       "name": "Dr. Elliot Kupferberg",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/1/1e/Ellior_Kupferberg.jpg/revision/latest?cb=20200403092413"
     },
     {
       "name": "Phil Leotardo",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/6/65/Phil_Leotardo.jpg/revision/latest/scale-to-width-down/1000?cb=20211027160334"
     },
     {
       "name": "Ginny Sacramoni",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/6/6d/Ginny_Sacramoni.jpg/revision/latest?cb=20160922180946"
     },
     {
       "name": "Vito Spatafore",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/8/8a/Vito_Spatafore.jpg/revision/latest?cb=20160925012214"
     },
     {
       "name": "Rosalie Aprile",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/5/5e/Rosalie_Aprile.jpg/revision/latest?cb=20200223192029"
     },
     {
       "name": "Carmine Lupertazzi",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/6/66/Carmine_Lupertazzi_Sr_Profile.png/revision/latest/scale-to-width-down/1000?cb=20230712221955"
     },
     {
       "name": "Angie Bonpensiero",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/e/e2/Screenshot_2023-08-06_1.57.22_AM.png/revision/latest?cb=20230806055842"
     },
     {
       "name": "Patsy Parisi",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/e/eb/Patsy_Parisi_Profile.png/revision/latest/scale-to-width-down/1000?cb=20230804041855"
     },
     {
       "name": "Richie Santini",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/f/fa/Richie_Santini.jpeg/revision/latest/scale-to-width-down/1000?cb=20221221194300"
     },
     {
       "name": "Agent Dwight Harris",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/9/9f/Agent_Dwight_Harris.jpg/revision/latest?cb=20160922171410"
     },
     {
       "name": "Gloria Trillo",
-      "img": "placeholder"
-    },
-    {
-      "name": "Furio Giunta",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/9/99/Gloriaaa_Trillo.jpg/revision/latest?cb=20110119171153"
     },
     {
       "name": "Davey Scatino",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/2/2b/Davidscatino.jpg/revision/latest?cb=20160619230954"
     },
     {
       "name": "Karen Baccalieri",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/b/bf/Karen-Baccalieri.jpeg/revision/latest/scale-to-width-down/1000?cb=20220314235645"
     },
     {
       "name": "Lorraine Calluzzo",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/7/7a/Lorraine_Calluzzo.jpg/revision/latest/scale-to-width-down/1000?cb=20211024145223"
     },
     {
       "name": "Benny Fazio",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/d/dc/Benny_Fazio_2.jpg/revision/latest/scale-to-width-down/1000?cb=20210904192916"
     },
     {
       "name": "Bacala's Daughter, Sophia",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/sopranos/images/2/22/Sophia-Baccalieri.jpeg/revision/latest/scale-to-width-down/1000?cb=20230119022538"
     }
   ]
 }
