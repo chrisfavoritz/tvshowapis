@@ -1,0 +1,9 @@
+{
+  "items": [
+    { "name": "Rick Sanchez", "img": "https://static.wikia.nocookie.net/rickandmorty/images/a/a6/Rick_Sanchez.png/revision/latest?cb=20160923150728" },
+    { "name": "Morty Smith", "img": "https://static.wikia.nocookie.net/rickandmorty/images/e/ee/Morty501.png/revision/latest?cb=20210827150137" },
+    { "name": "Summer Smith", "img": "https://static.wikia.nocookie.net/rickandmorty/images/a/ad/Summer_is_cool.jpeg/revision/latest?cb=20160919183158" },
+    { "name": "Beth Smith", "img": "https://static.wikia.nocookie.net/rickandmorty/images/5/58/Beth_Smith.png/revision/latest?cb=20191122063320" },
+    { "name": "Jerry Smith", "img": "https://static.wikia.nocookie.net/rickandmorty/images/f/f1/Jerry_Smith.png/revision/latest?cb=20160923151111" }
+  ]
+}
