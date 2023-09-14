@@ -1,0 +1,41 @@
+{
+  "items": [
+    
+    {
+      "name": "Jim Hopper",
+      "img": "https://static.wikia.nocookie.net/strangerthings8338/images/2/2b/JimHopper.png/revision/latest?cb=20160819172733"
+    },
+    {
+      "name": "Joyce Byers",
+      "img": "https://static.wikia.nocookie.net/strangerthings8338/images/0/0c/Joyce_portrait.jpg/revision/latest?cb=20161021184428"
+    },
+    {
+      "name": "Murray Bauman",
+      "img": "https://static.wikia.nocookie.net/strangerthings8338/images/d/de/Murray_Bauman.png/revision/latest?cb=20171118142040"
+    },
+    {
+      "name": "Dr. Owens",
+      "img": "https://static.wikia.nocookie.net/strangerthings8338/images/7/7e/Dr_Owens_S2.png/revision/latest?cb=20180322041419"
+    },
+    {
+      "name": "Dr. Alexei",
+      "img": "https://static.wikia.nocookie.net/strangerthings8338/images/a/ad/Alexei.JPG/revision/latest?cb=20190705023926"
+    },
+    {
+      "name": "Bob Newby",
+      "img": "https://static.wikia.nocookie.net/strangerthings8338/images/d/d0/Bob_Newby_S2.png/revision/latest?cb=20180327083407"
+    },
+    {
+      "name": "Brenner (Dr. Martin Brenner)",
+      "img": "https://static.wikia.nocookie.net/strangerthings8338/images/b/be/Brenner_S1.png/revision/latest?cb=20221115135716"
+    },
+    {
+      "name": "Ted Wheeler",
+      "img": "https://static.wikia.nocookie.net/strangerthings8338/images/b/bf/Ted_Wheeler.png/revision/latest?cb=20171108231928"
+    },
+    {
+      "name": "Karen Wheeler",
+      "img": "https://static.wikia.nocookie.net/strangerthings8338/images/3/3d/Screen_Shot_2017-11-13_at_7.17.08_PM.png/revision/latest?cb=20171114011904"
+    }
+  ]
+}
