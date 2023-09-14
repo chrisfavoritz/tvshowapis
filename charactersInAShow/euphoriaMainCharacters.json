@@ -1,0 +1,12 @@
+{
+  "items": [
+    { "name": "Rue Bennett", "img": "https://static.wikia.nocookie.net/euphoria-hbo/images/d/d3/Euphoria_S2_Rue.jpg/revision/latest/scale-to-width-down/1000?cb=20220102044652" },
+    { "name": "Jules Vaughn", "img": "https://static.wikia.nocookie.net/euphoria-hbo/images/f/f2/Jules_Vaughn_Season_2.jpg/revision/latest?cb=20220216233040" },
+    { "name": "Nate Jacobs", "img": "https://static.wikia.nocookie.net/euphoria-hbo/images/a/ad/Nate_Jacobs_Season_2.jpg/revision/latest?cb=20220216233451" },
+    { "name": "Maddy Perez", "img": "https://static.wikia.nocookie.net/euphoria-hbo/images/7/79/Maddy_Perez_Season_2.jpg/revision/latest?cb=20220216233658" },
+    { "name": "Cassie Howard", "img": "https://static.wikia.nocookie.net/euphoria-hbo/images/f/f9/Euphoria_S2_Cassie.jpg/revision/latest/scale-to-width-down/1000?cb=20220104035238" },
+    { "name": "Lexi Howard", "img": "https://static.wikia.nocookie.net/euphoria-hbo/images/3/35/Lexi_Howard_Season_2.jpg/revision/latest?cb=20220216235220" },
+    { "name": "Fezco", "img": "https://static.wikia.nocookie.net/euphoria-hbo/images/a/a6/Fezco_Season_2.jpg/revision/latest?cb=20220216233817" },
+    { "name": "Kat Hernandez", "img": "https://static.wikia.nocookie.net/euphoria-hbo/images/c/cf/Euphoria_S2_Kat.jpg/revision/latest/scale-to-width-down/1000?cb=20211225060000" }
+  ]
+}
