@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "name": "Walter White",
+      "img": "https://static.wikia.nocookie.net/breakingbad/images/e/e7/BB-S5B-Walt-590.jpg/revision/latest?cb=20130928055404"
+    },
+    {
+      "name": "Jesse Pinkman",
+      "img": "https://static.wikia.nocookie.net/breakingbad/images/c/ca/Jesse_Season_5B.jpg/revision/latest?cb=20220611094739"
+    },
+    {
+      "name": "Skyler White",
+      "img": "https://static.wikia.nocookie.net/breakingbad/images/3/33/Skyler_S5b.jpg/revision/latest?cb=20130717044318"
+    },
+    {
+      "name": "Hank Schrader",
+      "img": "https://static.wikia.nocookie.net/breakingbad/images/7/7b/Hank_S5b.jpg/revision/latest?cb=20130717044210"
+    },
+    {
+      "name": "Marie Schrader",
+      "img": "https://static.wikia.nocookie.net/breakingbad/images/b/b7/Marie_S5b.jpg/revision/latest?cb=20130717044235"
+    },
+    {
+      "name": "Saul Goodman (a.k.a. Jimmy McGill)",
+      "img": "https://static.wikia.nocookie.net/breakingbad/images/8/8e/BCS_S6_Portrait_Jimmy.jpg/revision/latest/scale-to-width-down/1000?cb=20220802210840"
+    },
+    {
+      "name": "Mike Ehrmantraut",
+      "img": "https://static.wikia.nocookie.net/breakingbad/images/4/46/BCS_S6_Portrait_Mike.jpg/revision/latest/scale-to-width-down/1000?cb=20220522174959"
+    },
+    {
+      "name": "Gustavo \"Gus\" Fring",
+      "img": "https://static.wikia.nocookie.net/breakingbad/images/5/5e/Gus_Fring_2002.jpg/revision/latest?cb=20210608130942"
+    },
+    {
+      "name": "Walter White Jr.",
+      "img": "https://static.wikia.nocookie.net/breakingbad/images/e/e7/WaltJrS5.jpg/revision/latest?cb=20221021194031"
+    },
+    {
+      "name": "Steven Gomez",
+      "img": "https://static.wikia.nocookie.net/breakingbad/images/6/65/Gomie_2009.png/revision/latest?cb=20220822191637"
+    },
+    {
+      "name": "Lydia Rodarte-Quayle",
+      "img": "https://static.wikia.nocookie.net/breakingbad/images/7/78/Lydia_S5b.jpg/revision/latest?cb=20130717044258"
+    },
+    {
+      "name": "Todd Alquist",
+      "img": "https://static.wikia.nocookie.net/breakingbad/images/f/f5/Todd_S5b.jpg/revision/latest?cb=20130717044419"
+    }
+  ]
+}
