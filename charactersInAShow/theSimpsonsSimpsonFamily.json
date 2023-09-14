@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "name": "Homer Simpson",
+      "img": "https://static.wikia.nocookie.net/simpsons/images/b/bd/Homer_Simpson.png/revision/latest?cb=20221226145155"
+    },
+    {
+      "name": "Marge Simpson",
+      "img": "https://static.wikia.nocookie.net/simpsons/images/4/4d/MargeSimpson.png/revision/latest?cb=20201222215318"
+    },
+    {
+      "name": "Bart Simpson",
+      "img": "https://static.wikia.nocookie.net/simpsons/images/6/65/Bart_Simpson.png/revision/latest?cb=20190409004756"
+    },
+    {
+      "name": "Lisa Simpson",
+      "img": "https://static.wikia.nocookie.net/simpsons/images/d/d5/Lisa_Simpson_official.png/revision/latest?cb=20190409004811"
+    },
+    {
+      "name": "Maggie Simpson",
+      "img": "https://static.wikia.nocookie.net/simpsons/images/9/9d/Maggie_Simpson.png/revision/latest?cb=20201222215325"
+    },
+    {
+      "name": "Abraham \"Grampa\" Simpson",
+      "img": "https://static.wikia.nocookie.net/simpsons/images/a/a9/Abraham_Simpson.png/revision/latest?cb=20201222214913"
+    },
+    {
+      "name": "Patty Bouvier",
+      "img": "https://static.wikia.nocookie.net/simpsons/images/5/54/Temp.png/revision/latest?cb=20131208164211"
+    },
+    {
+      "name": "Selma Bouvier",
+      "img": "https://static.wikia.nocookie.net/simpsons/images/b/ba/Selma_Bouvier.png/revision/latest?cb=20201222215308"
+    }
+  ]
+}
