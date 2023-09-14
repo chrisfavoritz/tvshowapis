@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "name": "Tyrion Lannister",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/9/95/HandoftheKingTyrionLannister.PNG/revision/latest?cb=20190520175204"
+    },
+    {
+      "name": "Cersei Lannister",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/b/b0/CERSEIBATTLEOFKINGSLANDING.PNG/revision/latest?cb=20190906021534"
+    },
+    {
+      "name": "Jaime Lannister",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/5/51/JaimeLannisterSeason8.PNG/revision/latest?cb=20190207112813"
+    },
+    {
+      "name": "Tywin Lannister",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/7/71/Tywin_Lannister_4x08.jpg/revision/latest/scale-to-width-down/1000?cb=20170830015346"
+    },
+    {
+      "name": "Joffrey Baratheon",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/2/25/Joffrey_Season_4_Episode_2_TLATR.jpg/revision/latest?cb=20210722092942"
+    },
+    {
+      "name": "Stannis Baratheon",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/2/2f/StannisNew.png/revision/latest?cb=20210313165449"
+    },
+    {
+      "name": "Sandor \"The Hound\" Clegane",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/b/b5/SandorConfrontsGregor.PNG/revision/latest?cb=20210722093812"
+    },
+    {
+      "name": "Gregor \"The Mountain\" Clegane",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/b/be/Gregor_Clegane_4x07.jpg/revision/latest?cb=20140707234843"
+    },
+    {
+      "name": "Renly Baratheon",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/f/ff/Profile-Renly_Baratheon.png/revision/latest?cb=20171006064500"
+    },
+    {
+      "name": "Robert Baratheon",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/4/43/Robert_crop.png/revision/latest?cb=20210223122212"
+    },
+    {
+      "name": "Tommen Baratheon",
+      "img": "https://static.wikia.nocookie.net/gameofthrones/images/7/7c/Tommen_blood_of_my_blood.jpg/revision/latest?cb=20160530234845"
+    }
+  ]
+}
