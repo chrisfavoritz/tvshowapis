@@ -1,0 +1,13 @@
+{
+  "items": [
+    { "name": "Harvey Specter", "img": "https://static.wikia.nocookie.net/suits/images/d/da/S8_Harvey_Specter.jpg/revision/latest?cb=20180731195449" },
+    { "name": "Mike Ross", "img": "https://static.wikia.nocookie.net/suits/images/c/c2/Mike_Ross_%285x7%29.png/revision/latest?cb=20190903001426" },
+    { "name": "Donna Paulsen", "img": "https://static.wikia.nocookie.net/suits/images/9/97/S8_Donna_Paulsen.jpg/revision/latest?cb=20180731195347" },
+    { "name": "Louis Litt", "img": "https://static.wikia.nocookie.net/suits/images/f/f1/S8_Louis_Litt.jpg/revision/latest?cb=20180731195639" },
+    { "name": "Rachel Zane", "img": "https://static.wikia.nocookie.net/suits/images/9/92/Meghan_Markle_as_Rachel_Zane.png/revision/latest?cb=20191003130401" },
+    { "name": "Jessica Pearson", "img": "https://static.wikia.nocookie.net/suits/images/c/c4/Jessica_Pearson_%28Pearson%29.jpg/revision/latest?cb=20190902222249" },
+    { "name": "Katrina Bennett", "img": "https://static.wikia.nocookie.net/suits/images/5/52/S8_Katrina_Bennet.jpg/revision/latest?cb=20180731195538" },
+    { "name": "Alex Williams", "img": "https://static.wikia.nocookie.net/suits/images/f/f6/S8_Alex_Williams.jpg/revision/latest?cb=20180731195211" },
+    { "name": "Samantha Wheeler", "img": "https://static.wikia.nocookie.net/suits/images/f/f7/S8_Samantha_Wheeler.jpg/revision/latest?cb=20180731195731" }
+  ]
+}
