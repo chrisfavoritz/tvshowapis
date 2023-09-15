@@ -1,21 +1,21 @@
 {
   "items": [
-    { "name": "Vincent Chase", "img": "placeholder" },
-    { "name": "Eric \"E\" Murphy", "img": "placeholder" },
-    { "name": "Johnny \"Drama\" Chase", "img": "placeholder" },
-    { "name": "Salvatore \"Turtle\" Assante", "img": "placeholder" },
-    { "name": "Ari Gold", "img": "placeholder" },
-    { "name": "Lloyd Lee", "img": "placeholder" },
-    { "name": "Shauna Roberts", "img": "placeholder" },
-    { "name": "Dana Gordon", "img": "placeholder" },
-    { "name": "Billy Walsh", "img": "placeholder" },
-    { "name": "Sloan McQuewick", "img": "placeholder" },
-    { "name": "Melinda Clarke", "img": "placeholder" },
-    { "name": "Terrence McQuewick", "img": "placeholder" },
-    { "name": "Tom", "img": "placeholder" },
-    { "name": "Scott Lavin", "img": "placeholder" },
-    { "name": "Amanda Daniels", "img": "placeholder" },
-    { "name": "Josh Weinstein", "img": "placeholder" },
-    { "name": "Charlie Runkle", "img": "placeholder" }
+    { "name": "Vincent Chase", "img": "https://upload.wikimedia.org/wikipedia/en/6/67/VincentChase.jpg" },
+    { "name": "Eric \"E\" Murphy", "img": "https://upload.wikimedia.org/wikipedia/en/e/e6/EricMurphy.jpg" },
+    { "name": "Johnny \"Drama\" Chase", "img": "https://upload.wikimedia.org/wikipedia/en/b/bc/JohnnyDrama.jpg" },
+    { "name": "Salvatore \"Turtle\" Assante", "img": "https://upload.wikimedia.org/wikipedia/en/d/d0/TurtleEntourage.jpg" },
+    { "name": "Ari Gold", "img": "https://static.wikia.nocookie.net/entourage/images/4/47/Arigold.png/revision/latest?cb=20111023131753" },
+    { "name": "Lloyd Lee", "img": "https://static.wikia.nocookie.net/entourage/images/a/a5/Lloyd_l.jpg/revision/latest?cb=20170921195600" },
+    { "name": "Shauna Roberts", "img": "https://static.wikia.nocookie.net/entourage/images/0/0e/Shauna-1024.jpg/revision/latest/scale-to-width-down/1000?cb=20110815233913" },
+    { "name": "Dana Gordon", "img": "https://static.wikia.nocookie.net/entourage/images/8/87/Dana-gordon.png/revision/latest?cb=20110815233805" },
+    { "name": "Billy Walsh", "img": "https://static.wikia.nocookie.net/entourage/images/0/04/BillyWalsh.png/revision/latest?cb=20111023173450" },
+    { "name": "Sloan McQuewick", "img": "https://static.wikia.nocookie.net/entourage/images/c/ce/Sloan-mcquewick-1024.jpg/revision/latest/scale-to-width-down/1000?cb=20170923164610" },
+    { "name": "Melinda Clarke", "img": "https://static.wikia.nocookie.net/charmed/images/6/6d/MelindaClarke.jpg/revision/latest/thumbnail/width/360/height/450?cb=20100926181125" },
+    { "name": "Terrence McQuewick", "img": "https://static.wikia.nocookie.net/entourage/images/f/f5/Terrance.png/revision/latest?cb=20111023175635" },
+    { "name": "Melissa Gold", "img": "https://static.wikia.nocookie.net/entourage/images/c/c6/MelissaGold.png/revision/latest?cb=20111024013551" },
+    { "name": "Tom", "img": "https://static.wikia.nocookie.net/entourage/images/0/01/100829113435_quinnnn.jpg/revision/latest?cb=20110819195929" },
+    { "name": "Scott Lavin", "img": "https://static.wikia.nocookie.net/entourage/images/3/3c/Download-1.jpg/revision/latest?cb=20180313203607" },
+    { "name": "Amanda Daniels", "img": "https://static.wikia.nocookie.net/entourage/images/e/e0/Amanda_l.jpg/revision/latest?cb=20110816002442" },
+    { "name": "Josh Weinstein", "img": "https://static.wikia.nocookie.net/entourage/images/7/76/Isabelcuevascreencapbq4.jpg/revision/latest?cb=20110815234625" }
   ]
 }
