@@ -1,0 +1,13 @@
+{
+  "items": [
+    { "name": "Peter Griffin", "img": "https://static.wikia.nocookie.net/familyguy/images/a/aa/FamilyGuy_Single_PeterDrink_R7.jpg/revision/latest/scale-to-width-down/1000?cb=20230815202349" },
+    { "name": "Lois Griffin", "img": "https://static.wikia.nocookie.net/familyguy/images/7/7c/FamilyGuy_Single_LoisPose_R7.jpg/revision/latest/scale-to-width-down/1000?cb=20200526171843" },
+    { "name": "Meg Griffin", "img": "https://static.wikia.nocookie.net/familyguy/images/1/1b/FamilyGuy_Single_MegMakeup_R7.jpg/revision/latest/scale-to-width-down/1000?cb=20200526171840" },
+    { "name": "Chris Griffin", "img": "https://static.wikia.nocookie.net/familyguy/images/e/ee/FamilyGuy_Single_ChrisText_R7.jpg/revision/latest/scale-to-width-down/1000?cb=20230815202356" },
+    { "name": "Stewie Griffin", "img": "https://static.wikia.nocookie.net/familyguy/images/9/90/FamilyGuy_Single_StewieBackpack_R7.jpg/revision/latest/scale-to-width-down/1000?cb=20200526171841" },
+    { "name": "Brian Griffin", "img": "https://static.wikia.nocookie.net/familyguy/images/c/c2/FamilyGuy_Single_BrianWriter_R7.jpg/revision/latest/scale-to-width-down/1000?cb=20230807152447" },
+    { "name": "Glenn Quagmire", "img": "https://static.wikia.nocookie.net/familyguy/images/1/1f/Quagmire.PNG/revision/latest?cb=20221004124745" },
+    { "name": "Cleveland Brown", "img": "https://static.wikia.nocookie.net/familyguy/images/1/1f/Cleveland.png/revision/latest?cb=20100121115548" },
+    { "name": "Joe Swanson", "img": "https://static.wikia.nocookie.net/familyguy/images/9/9c/190px-Joe_Swanson.png/revision/latest?cb=20100326012234" }
+  ]
+}
