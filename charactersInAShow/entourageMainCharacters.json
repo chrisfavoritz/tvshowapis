@@ -1,0 +1,11 @@
+{
+  "items": [
+    { "name": "Vincent Chase", "img": "https://upload.wikimedia.org/wikipedia/en/6/67/VincentChase.jpg" },
+    { "name": "Eric \"E\" Murphy", "img": "https://upload.wikimedia.org/wikipedia/en/e/e6/EricMurphy.jpg" },
+    { "name": "Johnny \"Drama\" Chase", "img": "https://upload.wikimedia.org/wikipedia/en/b/bc/JohnnyDrama.jpg" },
+    { "name": "Salvatore \"Turtle\" Assante", "img": "https://upload.wikimedia.org/wikipedia/en/d/d0/TurtleEntourage.jpg" },
+    { "name": "Ari Gold", "img": "https://static.wikia.nocookie.net/entourage/images/4/47/Arigold.png/revision/latest?cb=20111023131753" },
+    { "name": "Sloan McQuewick", "img": "https://static.wikia.nocookie.net/entourage/images/c/ce/Sloan-mcquewick-1024.jpg/revision/latest/scale-to-width-down/1000?cb=20170923164610" },
+    { "name": "Melissa Gold", "img": "https://static.wikia.nocookie.net/entourage/images/c/c6/MelissaGold.png/revision/latest?cb=20111024013551" }
+  ]
+}
