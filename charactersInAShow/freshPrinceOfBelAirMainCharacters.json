@@ -1,0 +1,11 @@
+{
+  "items": [
+    { "name": "Will Smith", "img": "https://static.wikia.nocookie.net/freshprince/images/8/8f/Will_Smith_%28Fresh_Prince%29.jpg/revision/latest?cb=20180213171011" },
+    { "name": "Philip Banks (Uncle Phil)", "img": "https://static.wikia.nocookie.net/freshprince/images/7/7f/MP_-_Philip.jpg/revision/latest/scale-to-width-down/1000?cb=20201026134544" },
+    { "name": "Vivian Banks", "img": "https://static.wikia.nocookie.net/freshprince/images/8/85/Viv1.jpg/revision/latest/scale-to-width-down/1000?cb=20180803201824" },
+    { "name": "Carlton Banks", "img": "https://static.wikia.nocookie.net/freshprince/images/a/ac/1carlton.jpg/revision/latest/scale-to-width-down/1000?cb=20180626133412" },
+    { "name": "Hilary Banks", "img": "https://static.wikia.nocookie.net/freshprince/images/3/3d/1hil.jpeg/revision/latest?cb=20180706022412" },
+    { "name": "Ashley Banks", "img": "https://static.wikia.nocookie.net/freshprince/images/e/e7/1ashley.jpg/revision/latest?cb=20180626195152" },
+    { "name": "Geoffrey Butler", "img": "https://static.wikia.nocookie.net/freshprince/images/9/96/GeoffreyPortal.jpeg/revision/latest?cb=20180421235720" }
+  ]
+}
