@@ -1,0 +1,10 @@
+{
+  "items": [
+    { "name": "Archie Andrews", "img": "https://static.wikia.nocookie.net/riverdalearchie/images/f/fb/RD-Archie-Andrews.jpg/revision/latest?cb=20230409162053" },
+    { "name": "Betty Cooper", "img": "https://static.wikia.nocookie.net/riverdalearchie/images/7/79/RD-Betty-Cooper.jpg/revision/latest?cb=20230409172154" },
+    { "name": "Veronica Lodge", "img": "https://static.wikia.nocookie.net/riverdalearchie/images/0/0e/RD-Veronica-Lodge.jpg/revision/latest?cb=20230409170741" },
+    { "name": "Jughead Jones", "img": "https://static.wikia.nocookie.net/riverdalearchie/images/3/3e/RD-Jughead-Jones.jpg/revision/latest?cb=20230409165527" },
+    { "name": "Cheryl Blossom", "img": "https://static.wikia.nocookie.net/riverdalearchie/images/4/40/RD-Cheryl-Blossom.jpg/revision/latest?cb=20230409165124" },
+    { "name": "Kevin Keller", "img": "https://static.wikia.nocookie.net/riverdalearchie/images/d/d7/RD-Kevin-Keller.jpg/revision/latest?cb=20220423165333" }
+  ]
+}
