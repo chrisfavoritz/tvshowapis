@@ -13,18 +13,14 @@
     { "name": "Prince William", "img": "https://static.wikia.nocookie.net/the-crown/images/4/4c/Season_5_Prince_William.png/revision/latest/scale-to-width-down/1000?cb=20221106125403" },
     { "name": "Prince Harry", "img": "https://static.wikia.nocookie.net/the-crown/images/d/d3/Prince_Harry_-_Season_5.png/revision/latest?cb=20221110134433" },
     { "name": "Queen Mary", "img": "https://static.wikia.nocookie.net/the-crown/images/8/8f/MARYS1.png/revision/latest?cb=20191130213717" },
-    { "name": "Prince John", "img": "placeholder" },
     { "name": "Lord Louis Mountbatten", "img": "https://static.wikia.nocookie.net/the-crown/images/4/47/Lordmountbatten.jpg/revision/latest/scale-to-width-down/1000?cb=20191124111808" },
     { "name": "Princess Anne", "img": "https://static.wikia.nocookie.net/the-crown/images/4/4f/3anneposter.jpg/revision/latest/scale-to-width-down/1000?cb=20191116140419" },
-    { "name": "Lord Snowdon", "img": "placeholder" },
-    { "name": "Harold Wilson", "img": "placeholder" },
-    { "name": "Princess Alice of Battenberg", "img": "placeholder" },
-    { "name": "Jacqueline Kennedy", "img": "placeholder" },
-    { "name": "Michael Shea", "img": "placeholder" },
-    { "name": "Peter Townsend", "img": "placeholder" },
-    { "name": "Lord Altrincham", "img": "placeholder" },
-    { "name": "Lord Porchester", "img": "placeholder" },
-    { "name": "Princess Anne (young)", "img": "placeholder" },
-    { "name": "Fagan", "img": "placeholder" }
+    { "name": "Antony Armstrong-Jones, Earl of Snowden", "img": "https://static.wikia.nocookie.net/the-crown/images/c/cf/AAJ.jpg/revision/latest?cb=20191201142952" },
+    { "name": "Harold Wilson", "img": "https://static.wikia.nocookie.net/the-crown/images/d/db/Haroldwilson.png/revision/latest?cb=20191119010547" },
+    { "name": "Princess Alice of Battenberg", "img": "https://static.wikia.nocookie.net/the-crown/images/4/42/Princess_Alice_of_Battenberg.jpg/revision/latest?cb=20201024103148" },
+    { "name": "Michael Adeane", "img": "https://static.wikia.nocookie.net/the-crown/images/3/33/Michaeladeane.jpg/revision/latest/scale-to-width-down/1000?cb=20180822163510" },
+    { "name": "Peter Townsend", "img": "https://static.wikia.nocookie.net/the-crown/images/d/d6/Peter_townsend.jpg/revision/latest?cb=20161104213526" },
+    { "name": "Lord Porchester", "img": "https://static.wikia.nocookie.net/the-crown/images/7/74/Porchey.jpg/revision/latest/scale-to-width-down/1000?cb=20171210010024" },
+    { "name": "Fagan", "img": "https://static.wikia.nocookie.net/the-crown/images/4/40/Season4episode5.png/revision/latest?cb=20201116155756" }
   ]
 }
