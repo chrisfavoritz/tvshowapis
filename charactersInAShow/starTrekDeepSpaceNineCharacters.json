@@ -1,0 +1,13 @@
+{
+  "items": [
+    { "name": "Captain Benjamin Sisko", "img": "https://upload.wikimedia.org/wikipedia/en/9/92/BenSisko.jpg" },
+    { "name": "Major Kira Nerys", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/KiraNerys001.jpg/220px-KiraNerys001.jpg" },
+    { "name": "Odo", "img": "https://static.wikia.nocookie.net/p__/images/0/00/Odo.jpg/revision/latest?cb=20151103170635&path-prefix=protagonist" },
+    { "name": "Lt. Commander Jadzia Dax", "img": "https://upload.wikimedia.org/wikipedia/en/6/6c/JadziaDax.jpg" },
+    { "name": "Quark", "img": "https://static.wikia.nocookie.net/p__/images/8/85/Quark.jpg/revision/latest?cb=20161215174634&path-prefix=protagonist" },
+    { "name": "Jake Sisko", "img": "https://static.wikia.nocookie.net/memoryalpha/images/6/6d/Jake_Sisko%2C_2369.jpg/revision/latest?cb=20070919003750&path-prefix=en" },
+    { "name": "Ezri Dax", "img": "https://static.wikia.nocookie.net/memoryalpha/images/1/13/Ezri_Dax%2C_2375.jpg/revision/latest?cb=20200609080506&path-prefix=en" },
+    { "name": "Gul Dukat", "img": "https://static.wikia.nocookie.net/villains/images/e/e7/Gul-dukat-st-ds9-portrait.png/revision/latest?cb=20220717064030" },
+    { "name": "Garak", "img": "https://static.wikia.nocookie.net/memoryalpha/images/0/00/Elim_Garak%2C_2375.jpg/revision/latest?cb=20120329230204&path-prefix=en" }
+  ]
+}
