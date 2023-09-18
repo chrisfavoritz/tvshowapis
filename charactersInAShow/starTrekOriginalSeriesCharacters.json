@@ -1,0 +1,14 @@
+{
+  "items": [
+    { "name": "Captain James T. Kirk", "img": "https://static.wikia.nocookie.net/bigbangtheory/images/9/9b/Kirk.jpg/revision/latest?cb=20121223023049" },
+    { "name": "Spock", "img": "https://static.wikia.nocookie.net/memoryalpha/images/0/0b/Spock%2C_2254.jpg/revision/latest?cb=20180506135509&path-prefix=en" },
+    { "name": "Dr. Leonard 'Bones' McCoy", "img": "https://static.wikia.nocookie.net/memoryalpha/images/c/ca/McCoy_medical_tunic.jpg/revision/latest?cb=20120316000733&path-prefix=en" },
+    { "name": "Lt. Nyota Uhura", "img": "https://static.wikia.nocookie.net/memoryalpha/images/4/49/Nyota_Uhura%2C_2266_%28operations%29.jpg/revision/latest?cb=20110417164842&path-prefix=en" },
+    { "name": "Lt. Hikaru Sulu", "img": "https://static.wikia.nocookie.net/memoryalpha/images/a/ad/Sulu_in_command%2C_2267.jpg/revision/latest/scale-to-width-down/1000?cb=20150511075606&path-prefix=en" },
+    { "name": "Ensign Pavel Chekov", "img": "https://static.wikia.nocookie.net/memoryalpha/images/d/de/Pavel_Chekov_on_the_bridge%2C_2267.jpg/revision/latest?cb=20161009065958&path-prefix=en" },
+    { "name": "Montgomery 'Scotty' Scott", "img": "https://static.wikia.nocookie.net/p__/images/e/e5/MontgomeryScott.jpg/revision/latest?cb=20160219143821&path-prefix=protagonist" },
+    { "name": "Nurse Christine Chapel", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Christine_Chapel_Promotional_Image.jpg/220px-Christine_Chapel_Promotional_Image.jpg" },
+    { "name": "Yeoman Janice Rand", "img": "https://static.wikia.nocookie.net/memoryalpha/images/5/53/Janice_Rand%2C_2266.jpg/revision/latest?cb=20220104123325&path-prefix=en" },
+    { "name": "Khan Noonien Singh", "img": "https://upload.wikimedia.org/wikipedia/en/1/19/Khan1.jpg" }
+  ]
+}
