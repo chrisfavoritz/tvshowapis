@@ -1,0 +1,14 @@
+{
+  "items": [
+    { "name": "Captain Kathryn Janeway", "img": "https://static.wikia.nocookie.net/memoryalpha/images/4/44/Kathryn_Janeway%2C_2371.jpg/revision/latest?cb=20210929101355&path-prefix=en" },
+    { "name": "Commander Chakotay", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Chakotay.jpg/220px-Chakotay.jpg" },
+    { "name": "Lt. B'Elanna Torres", "img": "https://upload.wikimedia.org/wikipedia/en/8/86/BelannaTorres.jpg" },
+    { "name": "Lt. Tom Paris", "img": "https://static.wikia.nocookie.net/memoryalpha/images/0/0a/Tom_Paris%2C_2371.jpg/revision/latest?cb=20081023044906&path-prefix=en" },
+    { "name": "The Doctor (EMH)", "img": "https://upload.wikimedia.org/wikipedia/en/e/e1/TheDoctor.jpg" },
+    { "name": "Seven of Nine", "img": "https://static.wikia.nocookie.net/memoryalpha/images/3/34/Seven_of_Nine%2C_2402.jpg/revision/latest?cb=20230421002227&path-prefix=en" },
+    { "name": "Kes", "img": "https://static.wikia.nocookie.net/memoryalpha/images/0/0e/Kes%2C_2371.jpg/revision/latest?cb=20100818164844&path-prefix=en" },
+    { "name": "Neelix", "img": "https://static.wikia.nocookie.net/memoryalpha/images/4/44/Neelix%2C_2378.jpg/revision/latest?cb=20070518052022&path-prefix=en" },
+    { "name": "Harry Kim", "img": "https://static.wikia.nocookie.net/memoryalpha/images/1/1c/Harry_Kim%2C_2371.jpg/revision/latest?cb=20180623035615&path-prefix=en" },
+    { "name": "Tuvok", "img": "https://static.wikia.nocookie.net/memoryalpha/images/1/17/Tuvok%2C_2377.jpg/revision/latest?cb=20061013202834&path-prefix=en" }
+  ]
+}
