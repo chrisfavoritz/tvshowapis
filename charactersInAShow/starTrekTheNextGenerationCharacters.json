@@ -1,0 +1,17 @@
+{
+  "items": [
+
+    { "name": "Captain Jean-Luc Picard", "img": "https://static.wikia.nocookie.net/moviemorgue/images/0/02/Picard.jpg/revision/latest?cb=20130211205536" },
+    { "name": "Commander William Riker", "img": "https://static.wikia.nocookie.net/memoryalpha/images/6/6c/William_T._Riker%2C_2365.jpg/revision/latest?cb=20121210005644&path-prefix=en" },
+    { "name": "Lt. Commander Data", "img": "https://static.wikia.nocookie.net/memoryalpha/images/9/9d/Data_with_blue_eyes.jpg/revision/latest?cb=20141225195232&path-prefix=en" },
+    { "name": "Lt. Worf", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/WorfTNG.jpg/220px-WorfTNG.jpg" },
+    { "name": "Lt. Geordi La Forge", "img": "https://upload.wikimedia.org/wikipedia/en/0/04/GeordiLaForge.jpg" },
+    { "name": "Dr. Beverly Crusher", "img": "https://static.wikia.nocookie.net/memoryalpha/images/9/9e/Beverly_Crusher%2C_2364.jpg/revision/latest?cb=20180906190246&path-prefix=en" },
+    { "name": "Counselor Deanna Troi", "img": "https://static.wikia.nocookie.net/to-hollywood-and-beyond/images/d/de/Deanna_Troi_star.png/revision/latest?cb=20160627041536" },
+    { "name": "Wesley Crusher", "img": "https://static.wikia.nocookie.net/memoryalpha/images/e/ef/Wesley_Crusher%2C_2368.jpg/revision/latest?cb=20141207003717&path-prefix=en" },
+    { "name": "Q", "img": "https://static.wikia.nocookie.net/memoryalpha/images/9/9a/Q%2C_2364.jpg/revision/latest?cb=20220307152252&path-prefix=en" },
+    { "name": "Guinan", "img": "https://static.wikia.nocookie.net/memoryalpha/images/8/85/Guinan%2C_2401.jpg/revision/latest?cb=20220304073244&path-prefix=en" },
+    { "name": "Tasha Yar", "img": "https://static.wikia.nocookie.net/memoryalpha/images/5/5b/Natasha_Yar%2C_2364.jpg/revision/latest?cb=20161121002748&path-prefix=en" },
+    { "name": "Chief Miles O'Brien", "img": "https://static.wikia.nocookie.net/memoryalpha/images/5/56/Miles_O%27Brien%2C_2367.jpg/revision/latest?cb=20200425092214&path-prefix=en" }
+  ]
+}
