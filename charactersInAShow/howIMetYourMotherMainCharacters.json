@@ -1,0 +1,10 @@
+{
+  "items": [
+    { "name": "Ted Mosby", "img": "https://static.wikia.nocookie.net/himym/images/1/14/WB0rq.jpg/revision/latest?cb=20130113174836" },
+    { "name": "Marshall Eriksen", "img": "https://static.wikia.nocookie.net/himym/images/5/50/PlcCt.jpg/revision/latest?cb=20130113174817" },
+    { "name": "Lily Aldrin", "img": "https://static.wikia.nocookie.net/himym/images/c/cb/JJVSY.jpg/revision/latest?cb=20130113174828" },
+    { "name": "Robin Scherbatsky", "img": "https://static.wikia.nocookie.net/himym/images/9/97/O5wDi.jpg/revision/latest?cb=20191024051604" },
+    { "name": "Barney Stinson", "img": "https://static.wikia.nocookie.net/himym/images/8/83/Rc0JG.jpg/revision/latest?cb=20130113174854" },
+    { "name": "Tracy McConnell", "img": "https://static.wikia.nocookie.net/himym/images/2/2a/103523_D0739b.jpg/revision/latest?cb=20130911200918" }
+  ]
+}
