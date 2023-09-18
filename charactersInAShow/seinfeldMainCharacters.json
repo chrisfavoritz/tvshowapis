@@ -1,0 +1,15 @@
+{
+  "items": [
+    { "name": "Jerry Seinfeld", "img": "https://static.wikia.nocookie.net/seinfeld/images/5/55/340px-Jerryseinfe.jpg/revision/latest?cb=20120427201915" },
+    { "name": "George Costanza", "img": "https://static.wikia.nocookie.net/seinfeld/images/7/76/George-costanza.jpg/revision/latest?cb=20110406222711" },
+    { "name": "Elaine Benes", "img": "https://static.wikia.nocookie.net/seinfeld/images/5/57/Elaine.jpg/revision/latest?cb=20110915222502" },
+    { "name": "Cosmo Kramer", "img": "https://static.wikia.nocookie.net/seinfeld/images/3/3c/Kramer.jpg/revision/latest?cb=20110401134023" },
+    { "name": "Newman", "img": "https://static.wikia.nocookie.net/seinfeld/images/7/7f/Untitled.jpg/revision/latest?cb=20120128125849" },
+    { "name": "Frank Costanza", "img": "https://static.wikia.nocookie.net/seinfeld/images/9/9b/Festivus.jpg/revision/latest?cb=20130929183935" },
+    { "name": "Estelle Costanza", "img": "https://static.wikia.nocookie.net/seinfeld/images/1/13/Estelle7.png/revision/latest?cb=20120202152909" },
+    { "name": "Morty Seinfeld", "img": "https://static.wikia.nocookie.net/seinfeld/images/5/56/Dadseinfeld.jpg/revision/latest?cb=20120204122559" },
+    { "name": "Helen Seinfeld", "img": "https://static.wikia.nocookie.net/seinfeld/images/f/f2/Del_boca_vista.jpg/revision/latest?cb=20130929174514" },
+    { "name": "J. Peterman", "img": "https://static.wikia.nocookie.net/seinfeld/images/5/5b/Jacopo7.jpg/revision/latest?cb=20120204124331" },
+    { "name": "David Puddy", "img": "https://static.wikia.nocookie.net/seinfeld/images/7/7c/Puddy.jpg/revision/latest?cb=20120202153937" }
+  ]
+}
