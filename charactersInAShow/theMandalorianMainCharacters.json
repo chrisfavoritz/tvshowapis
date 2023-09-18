@@ -1,0 +1,13 @@
+{
+  "items": [
+    { "name": "Din Djarin", "img": "https://static.wikia.nocookie.net/starwars/images/8/8a/DinDjarinSansHelmet-TMCh16.png/revision/latest?cb=20201221013823" },
+    { "name": "Grogu", "img": "https://static.wikia.nocookie.net/starwars/images/4/43/TheChild-Fathead.png/revision/latest/scale-to-width-down/1000?cb=20201031231040" },
+    { "name": "Cara Dune", "img": "https://static.wikia.nocookie.net/starwars/images/3/32/CaraDuneS2-EW.png/revision/latest?cb=20200909003912" },
+    { "name": "Greef Karga", "img": "https://static.wikia.nocookie.net/starwars/images/9/9d/GreefKarga-TMH.png/revision/latest/scale-to-width-down/1000?cb=20220202051104" },
+    { "name": "Moff Gideon", "img": "https://static.wikia.nocookie.net/starwars/images/3/30/Gideon-AG-Crop-Clean.png/revision/latest?cb=20230605142046" },
+    { "name": "Bo-Katan Kryze", "img": "https://static.wikia.nocookie.net/starwars/images/d/d6/BoKatanKryze-TMs3.png/revision/latest?cb=20230326215043" },
+    { "name": "Peli Motto", "img": "https://static.wikia.nocookie.net/starwars/images/2/21/PeliMotto-TMH.png/revision/latest/scale-to-width-down/1000?cb=20230805221415" },
+    { "name": "Koska Reeves", "img": "https://static.wikia.nocookie.net/starwars/images/f/fd/KoskaReeves-TMCh11.png/revision/latest?cb=20220304023513" },
+    { "name": "Penn Pershing", "img": "https://static.wikia.nocookie.net/starwars/images/8/81/Pershing.png/revision/latest?cb=20191113101144" }
+  ]
+}
