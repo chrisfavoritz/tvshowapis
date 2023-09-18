@@ -1,0 +1,18 @@
+{
+  "items": [
+    { "name": "Rick Grimes", "img": "https://static.wikia.nocookie.net/walkingdead/images/e/ee/Season_eleven_rick_grimes.png/revision/latest/scale-to-width-down/1000?cb=20230322031548" },
+    { "name": "Daryl Dixon", "img": "https://static.wikia.nocookie.net/walkingdead/images/8/85/Season_eleven_daryl_dixon.png/revision/latest?cb=20220926174030" },
+    { "name": "Carol Peletier", "img": "https://static.wikia.nocookie.net/walkingdead/images/5/5f/Season_eleven_carol_peletier.png/revision/latest/scale-to-width-down/1000?cb=20221121230605" },
+    { "name": "Michonne", "img": "https://static.wikia.nocookie.net/walkingdead/images/5/58/Season_eleven_michonne.png/revision/latest/scale-to-width-down/1000?cb=20230326231701" },
+    { "name": "Maggie Rhee", "img": "https://static.wikia.nocookie.net/walkingdead/images/a/ad/Season_eleven_maggie_rhee.png/revision/latest/scale-to-width-down/1000?cb=20221031230007" },
+    { "name": "Glenn Rhee", "img": "https://static.wikia.nocookie.net/walkingdead/images/a/a2/Season_six_glenn_rhee.png/revision/latest/scale-to-width-down/1000?cb=20210308013809" },
+    { "name": "Carl Grimes", "img": "https://static.wikia.nocookie.net/walkingdead/images/6/67/Season_eight_carl_grimes.png/revision/latest/scale-to-width-down/1000?cb=20221020001422" },
+    { "name": "Lori Grimes", "img": "https://static.wikia.nocookie.net/walkingdead/images/e/e7/Season_three_lori_grimes.png/revision/latest?cb=20191117025815" },
+    { "name": "Negan", "img": "https://static.wikia.nocookie.net/walkingdead/images/8/8f/Season_eleven_negan_smith.png/revision/latest?cb=20221114232040" },
+    { "name": "Rosita Espinosa", "img": "https://static.wikia.nocookie.net/walkingdead/images/7/7f/Season_eleven_rosita_espinosa.png/revision/latest/scale-to-width-down/1000?cb=20221031230103" },
+    { "name": "Eugene Porter", "img": "https://static.wikia.nocookie.net/walkingdead/images/7/72/Season_eleven_eugene_porter.png/revision/latest?cb=20221126220512" },
+    { "name": "Aaron", "img": "https://static.wikia.nocookie.net/walkingdead/images/7/70/Season_eleven_aaron.png/revision/latest/scale-to-width-down/1000?cb=20220926174046" },
+    { "name": "Father Gabriel Stokes", "img": "https://static.wikia.nocookie.net/walkingdead/images/a/a7/Season_eleven_gabriel_stokes.png/revision/latest?cb=20221031225934" },
+    { "name": "Tara Chambler", "img": "https://static.wikia.nocookie.net/walkingdead/images/6/63/Season_nine_tara_chambler_%282%29.png/revision/latest?cb=20190318154153" }
+  ]
+}
