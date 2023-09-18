@@ -43,10 +43,9 @@
     { "name": "Tuvok", "img": "https://static.wikia.nocookie.net/memoryalpha/images/1/17/Tuvok%2C_2377.jpg/revision/latest?cb=20061013202834&path-prefix=en" },
     { "name": "Captain Jonathan Archer", "img": "https://static.wikia.nocookie.net/memoryalpha/images/b/bc/Jonathan_Archer%2C_2155.jpg/revision/latest?cb=20141110111014&path-prefix=en" },
     { "name": "Commander T'Pol", "img": "https://static.wikia.nocookie.net/memoryalpha/images/6/64/T%27Pol%2C_2152.jpg/revision/latest/scale-to-width-down/720?cb=20120416214740&path-prefix=en" },
-    { "name": "Lt. Malcolm Reed", "img": "placeholder" },
-    { "name": "Lt. Travis Mayweather", "img": "placeholder" },
-    { "name": "Dr. Phlox", "img": "placeholder" },
-    { "name": "Hoshi Sato", "img": "placeholder" },
-    { "name": "Ensign Travis Mayweather", "img": "placeholder" }
+    { "name": "Lt. Malcolm Reed", "img": "https://static.wikia.nocookie.net/memoryalpha/images/3/3a/Malcolm_Reed%2C_2154.jpg/revision/latest?cb=20120415183953&path-prefix=en" },
+    { "name": "Lt. Travis Mayweather", "img": "https://static.wikia.nocookie.net/memoryalpha/images/8/84/Travis_Mayweather%2C_2151.jpg/revision/latest/scale-to-width/360?cb=20120410002035&path-prefix=en" },
+    { "name": "Dr. Phlox", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Phlox_%28Star_Trek%29.jpg/220px-Phlox_%28Star_Trek%29.jpg" },
+    { "name": "Hoshi Sato", "img": "https://static.wikia.nocookie.net/memoryalpha/images/7/77/Hoshi_Sato%2C_2154.jpg/revision/latest?cb=20120409224834&path-prefix=en" }
   ]
 }
