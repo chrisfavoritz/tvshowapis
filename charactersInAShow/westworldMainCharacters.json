@@ -1,0 +1,13 @@
+{
+  "items": [
+    { "name": "Dolores Abernathy", "img": "https://static.wikia.nocookie.net/westworld/images/b/bc/Westworld-episode-5_Dolores_infobox.jpg/revision/latest?cb=20161031210817" },
+    { "name": "Bernard Lowe", "img": "https://static.wikia.nocookie.net/westworld/images/6/65/Bernard_infobox_new1.jpg/revision/latest?cb=20161122161323" },
+    { "name": "The Man in Black", "img": "https://static.wikia.nocookie.net/westworld/images/c/c4/ManinBlackS4.png/revision/latest/scale-to-width-down/1000?cb=20220725072510" },
+    { "name": "Maeve Millay", "img": "https://static.wikia.nocookie.net/westworld/images/7/78/Maeves1.jpeg/revision/latest?cb=20200506155237" },
+    { "name": "Engerraund Serac", "img": "https://static.wikia.nocookie.net/westworld/images/c/c5/Serac.jpg/revision/latest?cb=20200319143332" },
+    { "name": "Teddy Flood", "img": "https://static.wikia.nocookie.net/westworld/images/a/a9/Teddy_Flood_Phase_Space.jpg/revision/latest?cb=20180526115338" },
+    { "name": "Charlotte Hale", "img": "https://static.wikia.nocookie.net/westworld/images/8/8a/Charlotte_Westworld_Infobox.jpg/revision/latest?cb=20161122161223" },
+    { "name": "Clementine Pennyfeather", "img": "https://static.wikia.nocookie.net/westworld/images/8/8b/Clementine_Pennyfeather.jpg/revision/latest?cb=20161104230847" },
+    { "name": "Ashley Stubbs", "img": "https://static.wikia.nocookie.net/westworld/images/a/a3/AshleyStubbsS4.png/revision/latest/scale-to-width-down/1000?cb=20220725072201" }
+  ]
+}
