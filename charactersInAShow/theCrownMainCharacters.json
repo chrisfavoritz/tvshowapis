@@ -1,0 +1,11 @@
+{
+  "items": [
+    { "name": "Queen Elizabeth II", "img": "https://static.wikia.nocookie.net/the-crown/images/d/dc/3queenposter.jpg/revision/latest/scale-to-width-down/1000?cb=20191116143449" },
+    { "name": "Prince Philip, Duke of Edinburgh", "img": "https://static.wikia.nocookie.net/the-crown/images/6/6b/OlderPhilip.png/revision/latest/scale-to-width-down/1000?cb=20191121092701" },
+    { "name": "Princess Margaret", "img": "https://static.wikia.nocookie.net/the-crown/images/8/8c/3margaretposter.jpg/revision/latest/scale-to-width-down/1000?cb=20191116140435" },
+    { "name": "Winston Churchill", "img": "https://static.wikia.nocookie.net/the-crown/images/6/62/John-lithgow-the-crown.jpg/revision/latest?cb=20191201003504" },
+    { "name": "Princess Diana", "img": "https://static.wikia.nocookie.net/the-crown/images/9/9b/Season_5_-_Diana.png/revision/latest/scale-to-width-down/1000?cb=20221018151046" },
+    { "name": "Prince Charles", "img": "https://static.wikia.nocookie.net/the-crown/images/b/bd/3charlesposter.jpg/revision/latest/scale-to-width-down/1000?cb=20191119004305" },
+    { "name": "Camilla Parker Bowles", "img": "https://static.wikia.nocookie.net/the-crown/images/6/6e/TheCrownSeason4-9.png/revision/latest?cb=20201111170634" }
+  ]
+}
