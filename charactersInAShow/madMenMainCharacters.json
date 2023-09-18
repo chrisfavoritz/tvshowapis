@@ -1,0 +1,18 @@
+{
+  "items": [
+    { "name": "Don Draper (Dick Whitman)", "img": "https://upload.wikimedia.org/wikipedia/en/7/7b/Don_Draper_Wiki.jpg" },
+    { "name": "Peggy Olson", "img": "https://upload.wikimedia.org/wikipedia/en/3/36/Peggy_Olson_Wiki.jpg" },
+    { "name": "Joan Harris", "img": "https://upload.wikimedia.org/wikipedia/en/d/db/Joan_Holloway_Wiki.jpg" },
+    { "name": "Roger Sterling", "img": "https://static.wikia.nocookie.net/madmen/images/0/0a/Roger-sterling.jpg/revision/latest?cb=20100330051027" },
+    { "name": "Betty Draper", "img": "https://upload.wikimedia.org/wikipedia/en/c/c6/Betty_Draper.jpg" },
+    { "name": "Pete Campbell", "img": "https://upload.wikimedia.org/wikipedia/en/9/9c/Pete_Campbell_Wiki.jpg" },
+    { "name": "Lane Pryce", "img": "https://static.wikia.nocookie.net/madmen/images/b/b0/Lane_Pryce.jpeg/revision/latest?cb=20120313052317" },
+    { "name": "Megan Draper", "img": "https://static.wikia.nocookie.net/madmen/images/d/d9/Meganvacation.jpg/revision/latest?cb=20130409022953" },
+    { "name": "Sally Draper", "img": "https://static.wikia.nocookie.net/madmen/images/4/42/361455.jpeg/revision/latest?cb=20120313053449" },
+    { "name": "Ken Cosgrove", "img": "https://static.wikia.nocookie.net/madmen/images/a/a9/Ken-02.jpg/revision/latest?cb=20100723120751" },
+    { "name": "Harry Crane", "img": "https://static.wikia.nocookie.net/madmen/images/7/7c/Harryhat.jpg/revision/latest?cb=20101119224228" },
+    { "name": "Bertram Cooper", "img": "https://static.wikia.nocookie.net/madmen/images/c/cf/S6_Bertram_%2804%29.jpg/revision/latest/scale-to-width-down/1000?cb=20130315215637" },
+    { "name": "Paul Kinsey", "img": "https://static.wikia.nocookie.net/madmen/images/a/a3/Paul.jpg/revision/latest?cb=20100723120425" },
+    { "name": "Michael Ginsberg", "img": "https://static.wikia.nocookie.net/madmen/images/4/46/S6_Ginsberg_%281%29.jpg/revision/latest?cb=20130324141518" }
+  ]
+}
