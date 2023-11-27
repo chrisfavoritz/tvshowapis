@@ -1,10 +1,11 @@
 {
   "items": [
-    { "name": "Season 1 (2013)", "img": "placehhttps://static.wikia.nocookie.net/rickandmorty/images/7/70/Rick_and_Morty_Season_1.jpg/revision/latest/scale-to-width-down/1000?cb=20161125224650older" },
+    { "name": "Season 1 (2013)", "img": "https://static.wikia.nocookie.net/rickandmorty/images/7/70/Rick_and_Morty_Season_1.jpg/revision/latest/scale-to-width-down/1000?cb=20161125224650" },
     { "name": "Season 2 (2015)", "img": "https://static.wikia.nocookie.net/rickandmorty/images/d/d5/Season2.jpg/revision/latest/scale-to-width-down/1000?cb=20200718092925" },
     { "name": "Season 3 (2017)", "img": "https://static.wikia.nocookie.net/rickandmorty/images/b/be/Season3.jpg/revision/latest?cb=20200718093040" },
     { "name": "Season 4 (2019-2020)", "img": "https://static.wikia.nocookie.net/rickandmorty/images/d/d4/Season4.jpg/revision/latest?cb=20210522185627" },
     { "name": "Season 5 (2021)", "img": "https://static.wikia.nocookie.net/rickandmorty/images/5/5e/Rick_and_Morty_DVD_%26_Blu-Ray_Artwork.jpg/revision/latest/scale-to-width-down/1000?cb=20211113161225" },
-    { "name": "Season 6 (2022)", "img": "https://static.wikia.nocookie.net/rickandmorty/images/8/85/Season_6_dvd.jpeg/revision/latest?cb=20230130172719" }
+    { "name": "Season 6 (2022)", "img": "https://static.wikia.nocookie.net/rickandmorty/images/8/85/Season_6_dvd.jpeg/revision/latest?cb=20230130172719" },
+    { "name": "Season 7 (2023)", "img": "https://upload.wikimedia.org/wikipedia/en/6/6e/Rick_and_Morty_season_7.jpg" }
   ]
 }
