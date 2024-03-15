@@ -1,12 +1,12 @@
 {
   "items": [
-    { "name": "Season 1 (2011)", "img": "https://static.wikia.nocookie.net/gameofthrones/images/2/2c/Season_1_Poster.jpg/revision/latest/scale-to-width-down/1000?cb=20110406150536" },
-    { "name": "Season 2 (2012)", "img": "https://static.wikia.nocookie.net/gameofthrones/images/1/17/Game_of_Thrones_War_is_Coming.jpg/revision/latest?cb=20120301142149" },
-    { "name": "Season 3 (2013)", "img": "https://static.wikia.nocookie.net/gameofthrones/images/8/83/GOT-S3-Dragon-Poster.jpg/revision/latest?cb=20130226161555" },
-    { "name": "Season 4 (2014)", "img": "https://static.wikia.nocookie.net/gameofthrones/images/2/2e/HBO_Ew_S4_Teaser_Poster_Crow.jpg/revision/latest?cb=20151022214928" },
-    { "name": "Season 5 (2015)", "img": "https://static.wikia.nocookie.net/gameofthrones/images/0/0d/Gameofthrones-season5_poster.jpg/revision/latest/scale-to-width-down/1000?cb=20150228004741" },
-    { "name": "Season 6 (2016)", "img": "https://static.wikia.nocookie.net/gameofthrones/images/1/1f/GOT_Hall_of_Faces_S6_Poster_01.jpg/revision/latest?cb=20160224183949" },
-    { "name": "Season 7 (2017)", "img": "https://static.wikia.nocookie.net/gameofthrones/images/9/93/Got-s7-key-art.jpg/revision/latest?cb=20170523174752" },
-    { "name": "Season 8 (2019)", "img": "https://static.wikia.nocookie.net/gameofthrones/images/a/a3/Game-of-thrones-season-8-poster.jpg/revision/latest?cb=20190321163547" }
+    { "name": "Season 1 (2011)", "img": "https://upload.wikimedia.org/wikipedia/en/e/e8/Game_of_Thrones_Season_1.jpg?20151116103333" },
+    { "name": "Season 2 (2012)", "img": "https://upload.wikimedia.org/wikipedia/en/c/c2/Game_of_Thrones_Season_2.jpg?20151116103342" },
+    { "name": "Season 3 (2013)", "img": "https://upload.wikimedia.org/wikipedia/en/c/c2/Game_of_Thrones_Season_2.jpg?20151116103342" },
+    { "name": "Season 4 (2014)", "img": "https://upload.wikimedia.org/wikipedia/en/8/80/Game_of_Thrones_Season_4.jpg" },
+    { "name": "Season 5 (2015)", "img": "https://upload.wikimedia.org/wikipedia/en/5/59/Game_of_Thrones_Season_5.png" },
+    { "name": "Season 6 (2016)", "img": "https://upload.wikimedia.org/wikipedia/en/d/d1/Game_of_Thrones_Season_6.jpeg" },
+    { "name": "Season 7 (2017)", "img": "https://upload.wikimedia.org/wikipedia/en/9/92/Game_of_Thrones_Season_7.png" },
+    { "name": "Season 8 (2019)", "img": "https://upload.wikimedia.org/wikipedia/en/e/e0/Game_of_Thrones_Season_8.png" }
   ]
 }
